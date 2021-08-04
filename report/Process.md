@@ -10,6 +10,7 @@ In short, the agile management method disassembles all the functions of the proj
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/tra%20agile.png)
 
+
 # Team Roles
 
 # Sprints
