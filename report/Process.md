@@ -10,6 +10,15 @@ In short, the agile management method disassembles all the functions of the proj
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/tra%20agile.png)
 
+### 2. The agile project management framework used-scrum
+There are multiple methods for managing agile projects. Our team uses the agile development framework of scrum.
+
+### 3. Team work tools
+1. Daily meeting
+Microsoft teams is the main communication tool for our team members. Our team basically holds half-hour meetings every day. In the meetings, we mainly discuss three aspects. First, we will review the work that everyone has done in the past day, ask each other's problems and communicate and solve them. Secondly, we will summarize the problems that occurred in our work in the past and avoid everyone from making the same mistakes in our future work. Finally, we will set the goals that everyone needs to complete in the next stage and the desired content quality.
+
+2. Daily Q&A chat
+The daily half-hour meeting sometimes cannot meet the frequent communication needs of members. Therefore, we use WeChat as a communication tool. We have established a group of five called "petshop". When a member has questions about the content of the meeting, he can post his thoughts through WeChat, and other members will help answer his doubts when they see the news. In addition, notices of meeting time changes and member requests for leave will also be released through this group.
 
 # Team Roles
 
