@@ -29,5 +29,8 @@ There are multiple methods for managing agile projects. Our team uses the agile 
 # Team Roles
 
 # Sprints
+A project is composed of multiple sprints, and the entire project is equivalent to scrum. Every sprint has a goal to complete. Sprint is equivalent to an agile cycle. We have to complete in a sprint cycle, including, design, development, deployment, testing and other steps.
+
+
 
 # Continuous Integration
