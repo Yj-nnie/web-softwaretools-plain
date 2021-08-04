@@ -33,6 +33,15 @@ A project is composed of multiple sprints, and the entire project is equivalent 
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%201.png)
 
+Specifically, a complete sprint meeting should include Sprint
+
+1. Spring planning meeting requires members to plan what goals should be accomplished in this sprint. Assign different tasks according to the abilities of the members.
+2. In the standup meeting, members share their work problems with each other, and other members need help to solve the problems.
+3. A retro meeting requires members to review the entire sprint process. Reflect on the mistakes made in this sprint, and avoid similar mistakes made by members in the future.
+
+
+
+
 
 
 # Continuous Integration
