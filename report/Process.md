@@ -98,3 +98,21 @@ Under the Scrum framework, the development of the project is mainly divided into
 # Team Roles
 
 # Continuous Integration
+Our team uses Git for the software project development. Specifically, we use The Centralized Workflow, which is a great Git workflow. The Centralized Workflow uses a central repository to serve as the single point-of-entry for all changes to the project. The only default  development is called main, and all changes made by members are committed into this branch.
+
+The design time of our project is only two weeks. In order to improve efficiency, team members are required to work at the same time in a short period of time. Git can provide each team member with their own local copy of the entire project, which gives each team member a isolated working environment. Team members can add and modify any of their own work in the local repository without taking into account the content of other members’ work.
+
+### 1. Clone
+Decompose the project into a number of different work content, and each member is responsible for the corresponding part. Members clone the central repository and create their own branch. In this way of branching, everyone can work independently and manage each other to check each other's progress, and will not confuse everyone's work content.
+
+### 2. Create content
+Members add their own work content under their respective branches. After cloning the repository locally, developers can use the standard Git commit process to make changes: edit, stage, and commit. In this process, members do not need to care about any changes in the central repository.
+
+### 3. Review
+The work content of the members is reviewed by the team’s manager and other members. On Dairy scrum, members discuss each other's work results and propose amendments. Perfect work content can be pushed to the loca central repository.
+
+### 4. Release
+When the work content of the member does not need to be modified, the member should publish his local commits to the central repository.
+
+### 5. Manage conflicts
+The central repository represents the official project, so its commit history should be treated as sacred and immutable. If a member's local commit is different from the central repository, Git will refuse to push their changes. The nice thing about Git is that it uses the same git status and git add commands for both generating commits and resolving merge conflicts.
