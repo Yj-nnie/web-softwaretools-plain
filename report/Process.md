@@ -6,6 +6,8 @@ Agile and waterfall are the two mainstream project management methodology. Agile
 ### 1. Waterfall
 Waterfall is a traditional project management method. Waterfall development usually spends a lot of time at the beginning to formulate very detailed plans and requirements, and then follow the plan step by step. In general, waterfall management is mainly a linear process. The steps include Requirements Determination, Design, Implementation, Testing, Deployment and Maintenance. All of the requirements for each step is completed before the next begins. All requirements for each step are completed before the next one starts.
 
+![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/waterfall.PNG)
+
 #### Advantages of waterfall 
 It works well for smaller size projects where requirements are easily understandable.
 Precise project planning and fixed deadlines.
