@@ -93,7 +93,7 @@ Under the Scrum framework, the development of the project is mainly divided into
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%20meet.png)
 
-# Sprints
+# Our sprints overview
 
 # Team Roles
 
