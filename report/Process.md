@@ -1,5 +1,6 @@
 # Group Working
-The working method of our group follows the agile management method. Agile is a software development method and project management method based on delivering software in small parts of work and introducing changes when needed. Needs and results can be evaluated and corrected during the development process.
+Before the start of any group project, it is important to decide which project management framework and concept to adopt, which determines the future development method of the project, organizational changes and other important aspects.
+Agile and waterfall are the two mainstream project management methodology. Agile and waterfall often represent an irreversible fork in the road for any initiative. Generally speaking, in the same project, members must choose one of these concepts as the project management framework. 
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png)
 
