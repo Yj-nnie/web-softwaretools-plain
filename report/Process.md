@@ -73,8 +73,8 @@ The working method of our group follows the agile management method. This is mai
 2. Daily Q&A chat
    The daily half-hour meeting sometimes cannot meet the frequent communication needs of members. Therefore, we use WeChat as a communication tool. We have established a group of five called "pet store". When a member has questions about the content of the meeting, he can post his thoughts through WeChat, and other members will help answer his doubts when they see the news. In addition, notices of meeting time changes and member requests for leave will also be released through this group.
 
-# The agile project management framework used-scrum
-There are multiple methods for managing agile projects. Our team uses the agile development framework of scrum.
+# The agile project management framework used-Scrum
+Agile development is a development method and concept. There are many models for agile development, such as Scrum model, XP extreme programming and so on. The Scrum model is the most used development model in agile development, accounting for more than 66%. Our team uses the agile development framework of scrum.
 
 # Team Roles
 
