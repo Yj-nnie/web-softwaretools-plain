@@ -1,13 +1,24 @@
 # Group Working
 Before the start of any group project, it is important to decide which project management framework and concept to adopt, which determines the future development method of the project, organizational changes and other important aspects.
+
 Agile and waterfall are the two mainstream project management methodology. Agile and waterfall often represent an irreversible fork in the road for any initiative. Generally speaking, in the same project, members must choose one of these concepts as the project management framework. 
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png)
 
-### 1. Difference from traditional project management
-Traditional project management will make a detailed plan and detailed requirements at the beginning, and then try to follow the plan, but when agile starts to work, it has a rough idea of what is needed, and through delivering something in a short time, as the project progresses Develop and clarify the progress of the needs.
+### 1. Waterfall
+Waterfall is a traditional project management method. Waterfall development usually spends a lot of time at the beginning to formulate very detailed plans and requirements, and then follow the plan step by step. In general, waterfall management is mainly a linear process. The steps include Requirements Determination, Design, Implementation, Testing, Deployment and Maintenance. All of the requirements for each step is completed before the next begins. All requirements for each step are completed before the next one starts.
 
-In short, the agile management method disassembles all the functions of the project development and develops them one by one, thereby improving efficiency and speeding up the progress of the project. These frequent iterative processes are the core characteristics of agile projects.
+#### Advantages of waterfall 
+It works well for smaller size projects where requirements are easily understandable.
+Precise project planning and fixed deadlines.
+A predictable and well-specified final product.
+Clear roles and responsibilities among members
+
+#### Disadvantages of waterfall 
+It is not an ideal model for a large size project.
+Lack of flexibility after project planning.
+If the market demand or technological environment changes, the project cannot meet the latest market demand.
+There are fewer opportunities to correct the project.
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/tra%20agile.png)
 
