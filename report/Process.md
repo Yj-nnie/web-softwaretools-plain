@@ -20,7 +20,7 @@ Lack of flexibility after project planning.
 If the market demand or technological environment changes, the project cannot meet the latest market demand.
 There are fewer opportunities to correct the project.
 
-### 2.Agile
+### 2. Agile
 Agile project management is iterative, which means that agile is completed in stages (sprints), and each sprint builds and improves the lessons of the previous sprint. At the beginning of the project, agile requires only a rough plan and idea for the project, and then as multiple sprints are continuously completed, members can continuously re-evaluate and correct the new requirements and results of the project, that is to say, Agile development is a process in which the requirements are expected to change and evolve. The larger project is broken down into smaller parts so that the project can progress in each sprint.
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png)
@@ -34,7 +34,7 @@ Frequent updates and increased user value.
 Susceptible to a lack of focus and knee-jerk reactions from sprint to sprint.
 Loose planning can lead to unpredictable finished products and date delays.
 
-### 3.The key difference between waterfall and agile
+### 3. The key difference between waterfall and agile
 Agile allows the requirements of the project to be changed and further specified during the development of the project, but once the project starts, waterfall does not change the scope of the requirements
 
 Agile method is more flexible, while waterfall is a structured project development method
@@ -43,7 +43,7 @@ Waterfall is a liner sequential life cycle model whereas continuous iteration is
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/tra%20agile.png)
 
-### 4.Our choice
+### 4. Our choice
 The working method of our group follows the agile management method. This is mainly based on the following reasons:
 
 1. This project needs to add new functions to the petstore site. At the beginning of the project, we listed several new functions that can be added, but the specific implementation of several new functions and the final effect of the new functions are uncertain. Therefore, we need to continuously adjust our project goals based on the results of the work during the subsequent development of the project. Based on this, the agile concept is more suitable for our project management.
