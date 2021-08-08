@@ -10,28 +10,37 @@ Waterfall is a traditional project management method. Waterfall development usua
 
 #### Advantages of waterfall 
 It works well for smaller size projects where requirements are easily understandable.
+
 Precise project planning and fixed deadlines.
+
 A predictable and well-specified final product.
+
 Clear roles and responsibilities among members
 
 #### Disadvantages of waterfall 
 It is not an ideal model for a large size project.
+
 Lack of flexibility after project planning.
+
 If the market demand or technological environment changes, the project cannot meet the latest market demand.
+
 There are fewer opportunities to correct the project.
 
 ### 2. Agile
 Agile project management is iterative, which means that agile is completed in stages (sprints), and each sprint builds and improves the lessons of the previous sprint. At the beginning of the project, agile requires only a rough plan and idea for the project, and then as multiple sprints are continuously completed, members can continuously re-evaluate and correct the new requirements and results of the project, that is to say, Agile development is a process in which the requirements are expected to change and evolve. The larger project is broken down into smaller parts so that the project can progress in each sprint.
 
-![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png)
+![<img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png" width="150" height="200" alt="Agile"/>](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png)
 
 #### Advantages of agile
 The project is flexible, and the content of the project can be continuously improved and revised as the project develops.
+
 Strict rhythm, flexibility of deadlines.
+
 Frequent updates and increased user value.
 
 #### Disadvantages of agile
 Susceptible to a lack of focus and knee-jerk reactions from sprint to sprint.
+
 Loose planning can lead to unpredictable finished products and date delays.
 
 ### 3. The key difference between waterfall and agile
