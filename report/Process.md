@@ -164,7 +164,18 @@ Outcomes
 - It was discussed at the meeting that the next sprint should add user authentication function and make improvements in pet search and management.
 
 ### Sprint IV  (8.4-8.5)
+Targets
+- Realize user authentication function
+- Improve the function of pet search
+- Improve the function of pet management
+- Improve the administrator's function of order processing
 
+Outcomes
+- In terms of user authentication function, realize the ability to add different users to some functions according to the three types of users
+- In terms of pet search display, add a new function: complete the display of the number of pets that can be sold
+- In terms of pet management, add a function that allows the administrator to add photos of pets
+- In terms of order function, improve the function of administrators to set user orders
+- Discuss the functions to be implemented in the next sprint. The team mainly discussed whether to add homepage flash cartoon and personality and perfect pet quiz to the petstore.
 
 ### Sprint V  (8.6-8.13)
 
