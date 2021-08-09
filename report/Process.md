@@ -178,8 +178,21 @@ Outcomes
 - Discuss the functions to be implemented in the next sprint. The team mainly discussed whether to add homepage flash cartoon and personality and perfect pet quiz to the petstore.
 
 ### Sprint V  (8.6-8.13)
+Targets
+- Project report writing
+- Check and improve various features 
+- Perform user testing
 
+Outcomes
+- Write and improve the content of the report according to the implemented features
+- For online orders, the following two aspects have been changed:
 
+Considering that petstore is a small pet shop, the number of pets of a single breed is very limited, so the purchase pet interface does not set the quantity window, that is, clicking the button "buy" will default to an order
+
+Because the delivery range of pet shops is limited, in order to express more accurately, change "confirm shipping" to "confirm sending"
+
+- In terms of user authentication, a function that allows users to update their information has been added.
+- Further optimize the layout of the website homepage and add a carousel.
 
 # Team Roles
 
