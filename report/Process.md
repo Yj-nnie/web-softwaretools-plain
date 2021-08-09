@@ -52,7 +52,7 @@ The working method of our group follows the agile management method. This is mai
 
 
 ### 5. Team work tools
-1. Daily meeting
+- Daily meeting
    Microsoft teams is the main communication tool for our team members. Our team basically holds half-hour meetings every day. In the meetings, we mainly discuss three aspects.
 
    First, we will review the work that everyone has done in the past day, ask each other's problems and communicate and solve them. 
@@ -61,7 +61,7 @@ The working method of our group follows the agile management method. This is mai
 
    Finally, we will set the goals that everyone needs to complete in the next stage and the desired content quality.
 
-2. Daily Q&A chat
+- Daily Q&A chat
    The daily half-hour meeting sometimes cannot meet the frequent communication needs of members. Therefore, we use WeChat as a communication tool. We have established a group of five called "pet store". When a member has questions about the content of the meeting, he can post his thoughts through WeChat, and other members will help answer his doubts when they see the news. In addition, notices of meeting time changes and member requests for leave will also be released through this group.
 
 # The agile project management framework used-Scrum
