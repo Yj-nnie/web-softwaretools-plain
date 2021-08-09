@@ -99,24 +99,24 @@ During the entire project development phase, our team carried out a total of fiv
 ### Sprint I  (7.27-7.29)
 Targets
 - Find the best project management methodology and tools for team project work
-2. Assign tasks according to members’ abilities and determine the responsibilities of members
-3. Each member creates his or her own working environment to facilitate the work
-4. Discuss the functions that petstore needs to develop on sprint planning
+- Assign tasks according to members’ abilities and determine the responsibilities of members
+- Each member creates his or her own working environment to facilitate the work
+- Discuss the functions that petstore needs to develop on sprint planning
 
 Outcomes
-1. After discussion, our team decided to follow agile management in the way of work, using the scrum agile development framework
-2. Members successfully assigned group tasks
-3. Members have established their own accounts and created their own branches on github
-4. Create a product backlog of user requirements list based on user stories and discuss what functions need to be added to petstore
+- After discussion, our team decided to follow agile management in the way of work, using the scrum agile development framework
+- Members successfully assigned group tasks
+- Members have established their own accounts and created their own branches on github
+- Create a product backlog of user requirements list based on user stories and discuss what functions need to be added to petstore
 
-- Sprint II
+### Sprint II  (7.30-8.1)
 
-- Sprint III
+### Sprint III  (8.2-8.3)
 
-- Sprint IV
+### Sprint IV  (8.4-8.5)
 
 
-- Sprint V
+### Sprint V  (8.6-8.13)
 
 
 
