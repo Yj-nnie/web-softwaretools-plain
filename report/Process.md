@@ -119,10 +119,15 @@ Outcomes
 - Initially complete the background content of the GitHub document
 - Establish a user questionnaire and conduct a survey. Members believe that it is clear that pet management, classification and user order functions will be added to the next sprint 
 - In terms of realizing the functions of user creation and authentication system, the following aspects are mainly realized:
+
   Add user registration, login, and logout functions
+  
   Add international plugin content
+  
   Realize the logout function of the user account
+  
   Add the name of the account and login button on the homepage
+  
 - Realized the preliminary layout design of the website
 
 ### Sprint III  (8.2-8.3)
