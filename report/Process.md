@@ -97,6 +97,17 @@ Under the Scrum framework, the development of the project is mainly divided into
 During the entire project development phase, our team carried out a total of five sprints. Because our design time is only two weeks, we have shortened the time of each sprint. The duration of the first four sprints is basically 2 to 3 days. The main content of each sprint is to establish and improve the 1 or 2 features that need to be established for the project. During the sprint, the members' working attitude was very positive. In the end, we successfully completed the first four sprints and established most of the functions of petstore. After the fourth sprint is over, the focus of our fifth sprint is mainly to improve the report of the project and to check leaks and fill the vacancy in the function of the project. The duration of sprint V is one week. The following are the details of our work during the sprint:
 
 - Sprint I
+### Target
+1. Find the best project management methodology and tools for team project work
+2. Assign tasks according to members’ abilities and determine the responsibilities of members
+3. Each member creates his or her own working environment to facilitate the work
+4. Discuss the functions that petstore needs to develop on sprint planning
+
+### Outcomes
+1. After discussion, our team decided to follow agile management in the way of work, using the scrum agile development framework
+2. Members successfully assigned group tasks
+3. Members have established their own accounts and created their own branches on github
+4. Create a product backlog of user requirements list based on user stories and discuss what functions need to be added to petstore
 
 - Sprint II
 
