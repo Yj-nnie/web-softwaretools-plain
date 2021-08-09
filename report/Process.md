@@ -131,6 +131,37 @@ Outcomes
 - Realized the preliminary layout design of the website
 
 ### Sprint III  (8.2-8.3)
+Targets
+- Realize pet classification function
+- Realize pet management function
+- Preliminary realization of the user order feature
+- Project report writing
+
+Outcomes
+- Realize the function of displaying pets by category and pet availability status on the website, mainly to achieve the following aspects:
+
+  Add pet category, such as dog, cat, bird, fish, reptile, insect and so on
+
+  Add the pet's availability status, including available, sold and pending
+
+- In terms of pet management functions, the following aspects are mainly realized:
+
+  Administrators can add new pets to store inventory
+
+  Administrators can update various information about existing pets
+
+  Administrators can delete existing pet items
+
+- Allow registered users to implement the function of placing orders online, including:
+
+  Users can click the button to buy now
+  
+  Add user's order interface
+  
+  Successfully implement the function of creating and canceling orders for registered users
+
+- Report writing including ux process and other part
+- It was discussed at the meeting that the next sprint should add user authentication function and make improvements in pet search and management.
 
 ### Sprint IV  (8.4-8.5)
 
