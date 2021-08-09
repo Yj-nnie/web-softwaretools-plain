@@ -55,9 +55,9 @@ Waterfall is a liner sequential life cycle model whereas continuous iteration is
 ### 4. Our choice
 The working method of our group follows the agile management method. This is mainly based on the following reasons:
 
-1. This project needs to add new functions to the petstore site. At the beginning of the project, we listed several new functions that can be added, but the specific implementation of several new functions and the final effect of the new functions are uncertain. Therefore, we need to continuously adjust our project goals based on the results of the work during the subsequent development of the project. Based on this, the agile concept is more suitable for our project management.
+- This project needs to add new functions to the petstore site. At the beginning of the project, we listed several new functions that can be added, but the specific implementation of several new functions and the final effect of the new functions are uncertain. Therefore, we need to continuously adjust our project goals based on the results of the work during the subsequent development of the project. Based on this, the agile concept is more suitable for our project management.
 
-2. In addition, our project preparation time is only two weeks. The short preparation time requires us to decompose the complex project into multiple work parts to be completed by different members. Team members need to regularly check and improve each decomposed work product. Consequently, we decided to adopt agile concepts at the beginning of the project.
+- In addition, our project preparation time is only two weeks. The short preparation time requires us to decompose the complex project into multiple work parts to be completed by different members. Team members need to regularly check and improve each decomposed work product. Consequently, we decided to adopt agile concepts at the beginning of the project.
 
 
 ### 5. Team work tools
