@@ -110,6 +110,20 @@ Outcomes
 - Create a product backlog of user requirements list based on user stories and discuss what functions need to be added to petstore
 
 ### Sprint II  (7.30-8.1)
+Targets
+- Start writing the content of the report
+- Conduct user surveys and establish a sprint backlog
+- Realize most of the features of the user creation and authentication system
+
+Outcomes
+- Initially complete the background content of the GitHub document
+- Establish a user questionnaire and conduct a survey. Members believe that it is clear that pet management, classification and user order functions will be added to the next sprint 
+- In terms of realizing the functions of user creation and authentication system, the following aspects are mainly realized:
+  Add user registration, login, and logout functions
+  Add international plugin content
+  Realize the logout function of the user account
+  Add the name of the account and login button on the homepage
+- Realized the preliminary layout design of the website
 
 ### Sprint III  (8.2-8.3)
 
