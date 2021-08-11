@@ -53,7 +53,13 @@ Agile project management is iterative, which means that agile is completed in st
 
 - Waterfall is a liner sequential life cycle model whereas continuous iteration is the core feature of agile.
 
-![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/tra%20agile.png)
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/tra%20agile.png" width="600"/>
+</p>
+<div align="center">
+  <em>Figure 3: The key difference between Waterfall and Agile.</em>
+    <br/><br/>
+</div>
 
 ## 4. Our choice
 The working method of our group follows the agile management method. This is mainly based on the following reasons:
@@ -70,7 +76,13 @@ When using scrum to implement agile development, the entire project is divided i
 
 Every sprint has a goal to complete. Sprint is equivalent to an agile cycle. We have to complete in a sprint cycle, including, design, build , test, review and other steps.
 
-![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%201.png)
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%201.png" width="600"/>
+</p>
+<div align="center">
+  <em>Figure 4: The key difference between Waterfall and Agile.</em>
+    <br/><br/>
+</div>
 
 Under the Scrum framework, the development of the project is mainly divided into the following five stages:
 
@@ -80,7 +92,13 @@ Under the Scrum framework, the development of the project is mainly divided into
 - Team members develop and complete the user requirements in the sprint list in a short time. During each sprint, team members conduct daily scrum basically every day. In the meeting, team members brief each other on their work progress and raise their own problems.
 - After the completion of each sprint, team members need to hold a sprint review. During the meeting, members review the entire sprint process, show the functions that have been developed, discuss and reflect on the mistakes that occurred in this sprint, and avoid similar mistakes in the future.
 
-![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%20meet.png)
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%20meet.png" width="600"/>
+</p>
+<div align="center">
+  <em>Figure 5: The key difference between Waterfall and Agile.</em>
+    <br/><br/>
+</div>
 
 # Our sprints overview
 
