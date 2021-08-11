@@ -281,7 +281,7 @@ Our team uses Git for the software project development. Specifically, we use The
 The design time of our project is only two weeks. In order to improve efficiency, team members are required to work at the same time in a short period of time. Git can provide each team member with their own local copy of the entire project, which gives each team member a isolated working environment. Team members can add and modify any of their own work in the local repository without taking into account the content of other members’ work.
 
 <p align="center">
-  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="800"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="850"/>
 </p>
 <div align="center">
   <em>Figure 12: Continuous integration using git.</em>
