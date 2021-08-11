@@ -232,7 +232,7 @@ Outcomes
 Microsoft teams is a tool for our team members to conduct meetings. Our team held a total of six meetings throughout the two-week project development phase. The meeting log recorded our attendance at each meeting and the content of the meeting in detail.
 
 <p align="center">
-  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/teams%205.gif" width="600"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/teams%209.gif" width="600"/>
 </p>
 <div align="center">
   <em>Figure 8: The group's activity on Teams.</em>
