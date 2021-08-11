@@ -37,9 +37,9 @@ After completing a stage of development, we usually used **git rebase** to pull 
 
 ### 5. Testing
 
-We set up a **test** branch specifically for testing functions. In the early stage of development, in order to use the GitHub Pages function to facilitate unit testing, we created a new repository to store the code of our developed functions, so that we can access our project online (https://luming-liu.github.io/) and every member can see it and test it. The only disadvantage is that we need to manually upload the code each time, which is very inconvenient and wastes time.
+We set up a **test** branch specifically for testing functions. In the early stage of development, in order to use the **GitHub Pages** function to facilitate unit testing, we created a new repository to store the code of our developed functions, so that we can access our project online (https://luming-liu.github.io/) and every member can see it and test it. The only disadvantage is that we need to manually upload the code each time, which is very inconvenient and wastes time.
 
-So we changed our testing way by using **docker**. The only thing the tester needs to do was switch to the **test** branch and type the command **docker-compose up -d** in the terminal. Then he can easily test functions by visiting http://localhost:8080/.
+So we changed our testing way by using **docker**. The only thing the tester needs to do is switch to the **test** branch and type the command **docker-compose up -d** in the terminal. Then he can easily test functions by visiting http://localhost:8080/.
 
 ### 6. Release
 
