@@ -119,7 +119,7 @@ User stories are often expressed in a simple sentence, structured as follows:
 According to the above structure, at the stage of sprint 1, as shown in the table below, we have constructed user stories. The information in the “Notes” column shows the result of the member meeting discussing whether to agree to petstore's construction of the feature. The “Sprint” column indicates in which sprint phase the function mentioned in the user story was built. Among them, for the needs mentioned by the ninth user, our members do not intend to incorporate this feature into the project, because we think it is unreasonable to judge someone’s best pet selection based on a quiz.
 
 <p align="center">
-  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20story.png" width="600"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20story.png" width="800"/>
 </p>
 <div align="center">
   <em>Figure 7: The key difference between Waterfall and Agile.</em>
