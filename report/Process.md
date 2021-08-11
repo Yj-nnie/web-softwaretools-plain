@@ -86,7 +86,15 @@ Under the Scrum framework, the development of the project is mainly divided into
 
 # Our sprints overview
 
+### User story creation
+As mentioned before, when using the Scum framework to develop a project, we must first collect user stories, which is the smallest and very critical unit of work in the Scrum framework. A user story is a short, informal description of the feature of a project, usually from the user’s perspective. Once the team agrees on a user story, this feature will be added to the product backlog and used as a goal for the subsequent sprint.
+
+User stories are often expressed in a simple sentence, structured as follows:
+"As a [persona], I [want to], [so that]."
+
 ![]()
+
+According to the above structure, at the stage of sprint 1, as shown in the table below, we have constructed user stories. The information in the “Notes” column shows the result of the member meeting discussing whether to agree to petstore's construction of the feature. The “Sprint” column indicates in which sprint phase the function mentioned in the user story was built. Among them, for the needs mentioned by the ninth user, our members do not intend to incorporate this feature into the project, because we think it is unreasonable to judge someone’s best pet selection based on a quiz.
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20story.png)
 
