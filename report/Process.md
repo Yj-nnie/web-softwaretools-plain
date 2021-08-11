@@ -122,7 +122,7 @@ According to the above structure, at the stage of sprint 1, as shown in the tabl
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20story.png" width="900"/>
 </p>
 <div align="center">
-  <em>Figure 7: The key difference between Waterfall and Agile.</em>
+  <em>Figure 7: User story creation.</em>
     <br/><br/>
 </div>
 
