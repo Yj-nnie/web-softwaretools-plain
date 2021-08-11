@@ -194,6 +194,8 @@ Our team uses Git for the software project development. Specifically, we use The
 
 The design time of our project is only two weeks. In order to improve efficiency, team members are required to work at the same time in a short period of time. Git can provide each team member with their own local copy of the entire project, which gives each team member a isolated working environment. Team members can add and modify any of their own work in the local repository without taking into account the content of other members’ work.
 
+![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png)
+
 ### 1. Clone
 Decompose the project into a number of different work content, and each member is responsible for the corresponding part. Members clone the central repository and create their own branch. In this way of branching, everyone can work independently and manage each other to check each other's progress, and will not confuse everyone's work content.
 
