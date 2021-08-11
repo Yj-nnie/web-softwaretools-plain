@@ -23,8 +23,6 @@ Waterfall is a traditional project management method. Waterfall development usua
 ## 2. Agile
 Agile project management is iterative, which means that agile is completed in stages (sprints), and each sprint builds and improves the lessons of the previous sprint. At the beginning of the project, agile requires only a rough plan and idea for the project, and then as multiple sprints are continuously completed, members can continuously re-evaluate and correct the new requirements and results of the project, that is to say, Agile development is a process in which the requirements are expected to change and evolve. The larger project is broken down into smaller parts so that the project can progress in each sprint.
 
-![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png)
-
 <p align="center">
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png" width="600"/>
 </p>
