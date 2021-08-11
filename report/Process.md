@@ -76,11 +76,11 @@ Every sprint has a goal to complete. Sprint is equivalent to an agile cycle. We 
 
 Under the Scrum framework, the development of the project is mainly divided into the following five stages:
 
-1.	Collect the user story, which is a way of describing a feature set. Then the product owner determines some of the features that the product needs to develop based on the user stories, and proposes the highlights of the product to form a product demand list -product backlog.
-2.	In the sprint planning meeting, all members of the team discuss the top priority user story and assign different tasks according to the abilities of the members. At the same time, this meeting should also determine the user need that need to be developed for the next sprint.
-3.	Make a sprint backlog according to the sprint planning of the previous stage, which a list of user stories that have been commits to the next sprint. The user story of the sprint backlog is what needs to be considered in the next phase of the sprint.
-4.	Team members develop and complete the user requirements in the sprint list in a short time. During each sprint, team members conduct daily scrum basically every day. In the meeting, team members brief each other on their work progress and raise their own problems.
-5.	After the completion of each sprint, team members need to hold a sprint review. During the meeting, members review the entire sprint process, show the functions that have been developed, discuss and reflect on the mistakes that occurred in this sprint, and avoid similar mistakes in the future.
+- Collect the user story, which is a way of describing a feature set. Then the product owner determines some of the features that the product needs to develop based on the user stories, and proposes the highlights of the product to form a product demand list -product backlog.
+- In the sprint planning meeting, all members of the team discuss the top priority user story and assign different tasks according to the abilities of the members. At the same time, this meeting should also determine the user need that need to be developed for the next sprint.
+- Make a sprint backlog according to the sprint planning of the previous stage, which a list of user stories that have been commits to the next sprint. The user story of the sprint backlog is what needs to be considered in the next phase of the sprint.
+- Team members develop and complete the user requirements in the sprint list in a short time. During each sprint, team members conduct daily scrum basically every day. In the meeting, team members brief each other on their work progress and raise their own problems.
+- After the completion of each sprint, team members need to hold a sprint review. During the meeting, members review the entire sprint process, show the functions that have been developed, discuss and reflect on the mistakes that occurred in this sprint, and avoid similar mistakes in the future.
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%20meet.png)
 
