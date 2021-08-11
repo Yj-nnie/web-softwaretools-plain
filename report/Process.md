@@ -67,6 +67,8 @@ The working method of our group follows the agile management method. This is mai
 # The agile project management framework used-Scrum
 Agile development is a development method and concept. There are many models for agile development, such as Scrum model, XP extreme programming and so on. The Scrum model is the most used development model in agile development, accounting for more than 66%. Our team uses the agile development framework of scrum.
 
+![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20story.png)
+
  ### Scrum & Sprint
 When using scrum to implement agile development, the entire project is divided into several small work parts, and each small part is called a “sprint”. This entire project is equivalent to scrum. A sprint usually takes one to three weeks. All the team members need to do is to repeat the sprint until the product features are fully developed, and finally get the project version that can be released. This work framework enables the team to accurately deliver products that meet the latest market needs of customers.
 
