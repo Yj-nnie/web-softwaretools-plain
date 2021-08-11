@@ -26,7 +26,7 @@ Agile project management is iterative, which means that agile is completed in st
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png)
 
 <p align="center">
-  <img src="images/agile%201.png" width="600"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png" width="600"/>
 </p>
 <div align="center">
   <em>Figure 2: The Scrum workflow.</em>
