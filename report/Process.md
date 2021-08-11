@@ -112,7 +112,7 @@ User stories are often expressed in a simple sentence, structured as follows:
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20concept.PNG" width="500"/>
 </p>
 <div align="center">
-  <em>Figure 6: The key difference between Waterfall and Agile.</em>
+  <em>Figure 6: The structure of user story.</em>
     <br/><br/>
 </div>
 
