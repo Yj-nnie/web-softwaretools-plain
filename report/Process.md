@@ -92,7 +92,7 @@ As mentioned before, when using the Scum framework to develop a project, we must
 User stories are often expressed in a simple sentence, structured as follows:
 "As a [persona], I [want to], [so that]."
 
-![]()
+![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20concept.PNG)
 
 According to the above structure, at the stage of sprint 1, as shown in the table below, we have constructed user stories. The information in the “Notes” column shows the result of the member meeting discussing whether to agree to petstore's construction of the feature. The “Sprint” column indicates in which sprint phase the function mentioned in the user story was built. Among them, for the needs mentioned by the ninth user, our members do not intend to incorporate this feature into the project, because we think it is unreasonable to judge someone’s best pet selection based on a quiz.
 
