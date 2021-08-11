@@ -98,9 +98,9 @@ According to the above structure, at the stage of sprint 1, as shown in the tabl
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20story.png)
 
-During the entire project development phase, our team carried out a total of five sprints. Because our design time is only two weeks, we have shortened the time of each sprint. The duration of the first four sprints is basically 2 to 3 days. The main content of each sprint is to establish and improve the 1 or 2 features that need to be established for the project. During the sprint, the members' working attitude was very positive. In the end, we successfully completed the first four sprints and established most of the functions of petstore. After the fourth sprint is over, the focus of our fifth sprint is mainly to improve the report of the project and to check leaks and fill the vacancy in the function of the project. The duration of sprint V is one week. The following are the details of our work during the sprint:
+During the entire project development phase, our team carried out a total of five sprints. Because our design time is only two weeks, we have shortened the time of each sprint. The duration of the first four sprints is basically 2 to 3 days. The main content of each sprint is to establish and improve the 1 or 2 features that need to be established for the project. During the sprint, the members' working attitude was very positive. In the end, we successfully completed the first four sprints and established most of the functions of petstore. After the fourth sprint is over, the focus of our fifth sprint is mainly to improve the report of the project and to check leaks and fill the vacancy in the function of the project. The duration of sprint 5 is one week. The following are the details of our work during the sprint:
 
-### Sprint I  (7.27-7.29)
+### Sprint 1  (7.27-7.29)
 Targets
 - Find the best project management methodology and tools for team project work
 - Assign tasks according to members’ abilities and determine the responsibilities of members
@@ -113,7 +113,7 @@ Outcomes
 - Members have established their own accounts and created their own branches on github
 - Create a product backlog of user requirements list based on user stories and discuss what functions need to be added to petstore
 
-### Sprint II  (7.30-8.1)
+### Sprint 2  (7.30-8.1)
 Targets
 - Start writing the content of the report
 - Conduct user surveys and establish a sprint backlog
@@ -134,7 +134,7 @@ Outcomes
   
 - Realized the preliminary layout design of the website
 
-### Sprint III  (8.2-8.3)
+### Sprint 3  (8.2-8.3)
 Targets
 - Realize pet classification function
 - Realize pet management function
@@ -167,7 +167,7 @@ Outcomes
 - Report writing including ux process and other part
 - It was discussed at the meeting that the next sprint should add user authentication function and make improvements in pet search and management.
 
-### Sprint IV  (8.4-8.5)
+### Sprint 4  (8.4-8.5)
 Targets
 - Realize user authentication function
 - Improve the function of pet search
@@ -181,7 +181,7 @@ Outcomes
 - In terms of order function, improve the function of administrators to set user orders
 - Discuss the functions to be implemented in the next sprint. The team mainly discussed whether to add homepage flash cartoon and personality and perfect pet quiz to the petstore.
 
-### Sprint V  (8.6-8.13)
+### Sprint 5  (8.6-8.13)
 Targets
 - Project report writing
 - Check and improve various features 
