@@ -3,38 +3,38 @@ Before the start of any group project, it is important to decide which project m
 
 Agile and waterfall are the two mainstream project management methodology. Agile and waterfall often represent an irreversible fork in the road for any initiative. Generally speaking, in the same project, members must choose one of these concepts as the project management framework. 
 
-### 1. Waterfall
+## 1. Waterfall
 Waterfall is a traditional project management method. Waterfall development usually spends a lot of time at the beginning to formulate very detailed plans and requirements, and then follow the plan step by step. In general, waterfall management is mainly a linear process. The steps include Requirements Determination, Design, Implementation, Testing, Deployment and Maintenance. All of the requirements for each step is completed before the next begins. All requirements for each step are completed before the next one starts.
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/waterfall.PNG)
 
-#### Advantages of waterfall 
+### Advantages of waterfall 
 - It works well for smaller size projects where requirements are easily understandable.
 - Precise project planning and fixed deadlines.
 - A predictable and well-specified final product.
 - Clear roles and responsibilities among members
 
-#### Disadvantages of waterfall 
+### Disadvantages of waterfall 
 - It is not an ideal model for a large size project.
 - Lack of flexibility after project planning.
 - If the market demand or technological environment changes, the project cannot meet the latest market demand.
 - There are fewer opportunities to correct the project.
 
-### 2. Agile
+## 2. Agile
 Agile project management is iterative, which means that agile is completed in stages (sprints), and each sprint builds and improves the lessons of the previous sprint. At the beginning of the project, agile requires only a rough plan and idea for the project, and then as multiple sprints are continuously completed, members can continuously re-evaluate and correct the new requirements and results of the project, that is to say, Agile development is a process in which the requirements are expected to change and evolve. The larger project is broken down into smaller parts so that the project can progress in each sprint.
 
 ![<img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png" width="150" height="200" alt="Agile"/>](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png)
 
-#### Advantages of agile
+### Advantages of agile
 - The project is flexible, and the content of the project can be continuously improved and revised as the project develops.
 - Strict rhythm, flexibility of deadlines.
 - Frequent updates and increased user value.
 
-#### Disadvantages of agile
+### Disadvantages of agile
 - Susceptible to a lack of focus and knee-jerk reactions from sprint to sprint.
 - Loose planning can lead to unpredictable finished products and date delays.
 
-### 3. The key difference between waterfall and agile
+## 3. The key difference between waterfall and agile
 - Agile allows the requirements of the project to be changed and further specified during the development of the project, but once the project starts, waterfall does not change the scope of the requirements
 
 - Agile method is more flexible, while waterfall is a structured project development method
@@ -43,31 +43,17 @@ Agile project management is iterative, which means that agile is completed in st
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/tra%20agile.png)
 
-### 4. Our choice
+## 4. Our choice
 The working method of our group follows the agile management method. This is mainly based on the following reasons:
 
 - This project needs to add new functions to the petstore site. At the beginning of the project, we listed several new functions that can be added, but the specific implementation of several new functions and the final effect of the new functions are uncertain. Therefore, we need to continuously adjust our project goals based on the results of the work during the subsequent development of the project. Based on this, the agile concept is more suitable for our project management.
 
 - In addition, our project preparation time is only two weeks. The short preparation time requires us to decompose the complex project into multiple work parts to be completed by different members. Team members need to regularly check and improve each decomposed work product. Consequently, we decided to adopt agile concepts at the beginning of the project.
 
-
-### 5. Team work tools
-- Daily meeting
-   Microsoft teams is the main communication tool for our team members. Our team basically holds half-hour meetings every day. In the meetings, we mainly discuss three aspects.
-
-   First, we will review the work that everyone has done in the past day, ask each other's problems and communicate and solve them. 
-
-   Secondly, we will summarize the problems that occurred in our work in the past and avoid everyone from making the same mistakes in our future work. 
-
-   Finally, we will set the goals that everyone needs to complete in the next stage and the desired content quality.
-
-- Daily Q&A chat
-   The daily half-hour meeting sometimes cannot meet the frequent communication needs of members. Therefore, we use WeChat as a communication tool. We have established a group of five called "pet store". When a member has questions about the content of the meeting, he can post his thoughts through WeChat, and other members will help answer his doubts when they see the news. In addition, notices of meeting time changes and member requests for leave will also be released through this group.
-
 # The agile project management framework used-Scrum
 Agile development is a development method and concept. There are many models for agile development, such as Scrum model, XP extreme programming and so on. The Scrum model is the most used development model in agile development, accounting for more than 66%. Our team uses the agile development framework of scrum.
 
- ### Scrum & Sprint
+## Scrum & Sprint
 When using scrum to implement agile development, the entire project is divided into several small work parts, and each small part is called a “sprint”. This entire project is equivalent to scrum. A sprint usually takes one to three weeks. All the team members need to do is to repeat the sprint until the product features are fully developed, and finally get the project version that can be released. This work framework enables the team to accurately deliver products that meet the latest market needs of customers.
 
 Every sprint has a goal to complete. Sprint is equivalent to an agile cycle. We have to complete in a sprint cycle, including, design, build , test, review and other steps.
@@ -86,7 +72,7 @@ Under the Scrum framework, the development of the project is mainly divided into
 
 # Our sprints overview
 
-### User story creation
+## User story creation
 As mentioned before, when using the Scum framework to develop a project, we must first collect user stories, which is the smallest and very critical unit of work in the Scrum framework. A user story is a short, informal description of the feature of a project, usually from the user’s perspective. Once the team agrees on a user story, this feature will be added to the product backlog and used as a goal for the subsequent sprint.
 
 User stories are often expressed in a simple sentence, structured as follows:
@@ -197,6 +183,30 @@ Outcomes
 
 - In terms of user authentication, a function that allows users to update their information has been added.
 - Further optimize the layout of the website homepage and add a carousel.
+
+## Daily communication methods and tools
+### Meeting structure and content
+Microsoft teams is a tool for our team members to conduct meetings. Our team held a total of six meetings throughout the two-week project development phase. The meeting log recorded our attendance at each meeting and the content of the meeting in detail.
+
+According to the scrum framework, we conduct three types of meetings in a sprint:
+- Sprint planning: members plan what goals should be accomplished in this sprint. Assign different tasks according to the abilities of the members.
+- Daily scrum: members share their work problems with each other, and other members need help to solve the problems.
+- Scrum retro requires members to review the entire sprint process and reflect on the mistakes made in this sprint.
+
+But because our project preparation time is very short, and the duration of each sprint is very short, our meeting basically integrates the content of the above three kinds of meetings. And the structure of our meetings are always:
+- Members update and display their work content in a timely manner, and members put forward work opinions among each other
+- Develop project goals for the next sprint
+- For difficult work problems, 2-3 people start a meeting in pairs and help each other complete tasks.
+
+### Increased transparency and integrity of communication
+The daily meetings held in Microsoft teams cannot meet the frequent communication needs of members. In order to improve the transparency and integrity of communication between members, we daily use WeChat as the main communication tool outside of the meeting. We have established a five-person chat group called "petstore fighting". All communication (except for task-related small meetings) is conducted in our WeChat group, which includes:
+- The exchange of project working documents between members is carried out in the WeChat group
+
+![]()
+- Evaluation of the work of team members. When a member completes a job, other members will write feedback to give feedback to help the content of the work better improve
+
+![]()
+- When there are some minor changes in project decision-making, members will post messages via WeChat.
 
 # Team Roles
 
