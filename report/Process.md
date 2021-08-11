@@ -72,7 +72,7 @@ Under the Scrum framework, the development of the project is mainly divided into
 
 # Our sprints overview
 
-## User story creation
+## 1. User story creation
 As mentioned before, when using the Scum framework to develop a project, we must first collect user stories, which is the smallest and very critical unit of work in the Scrum framework. A user story is a short, informal description of the feature of a project, usually from the user’s perspective. Once the team agrees on a user story, this feature will be added to the product backlog and used as a goal for the subsequent sprint.
 
 User stories are often expressed in a simple sentence, structured as follows:
@@ -84,7 +84,7 @@ According to the above structure, at the stage of sprint 1, as shown in the tabl
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20story.png)
 
-## Details of the sprints 
+## 2. Details of the sprints 
 During the entire project development phase, our team carried out a total of five sprints. Because our design time is only two weeks, we have shortened the time of each sprint. The duration of the first four sprints is basically 2 to 3 days. The main content of each sprint is to establish and improve the 1 or 2 features that need to be established for the project. During the sprint, the members' working attitude was very positive. In the end, we successfully completed the first four sprints and established most of the functions of petstore. After the fourth sprint is over, the focus of our fifth sprint is mainly to improve the report of the project and to check leaks and fill the vacancy in the function of the project. The duration of sprint 5 is one week. The following are the details of our work during the sprint:
 
 ### Sprint 1  (7.27-7.29)
@@ -185,7 +185,7 @@ Outcomes
 - In terms of user authentication, a function that allows users to update their information has been added.
 - Further optimize the layout of the website homepage and add a carousel.
 
-## Daily communication methods and tools
+## 3. Daily communication methods and tools
 ### Meeting structure and content
 Microsoft teams is a tool for our team members to conduct meetings. Our team held a total of six meetings throughout the two-week project development phase. The meeting log recorded our attendance at each meeting and the content of the meeting in detail.
 
