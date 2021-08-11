@@ -279,6 +279,15 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
 Our team uses Git for daily work. Git has some working modes that can be used, including: centralized workflow, featured branch workflow, and gitflow workflow. In the development of project, developers can mix and match aspects from different workflows to meet the development needs of the project.
 
 ## Centralized Workflow
+The Centralized Workflow uses a central repository to serve as the single point-of-entry for all changes to the project. The only default development is called main, and all changes made by members are committed into this branch.
+
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/centralized.PNG" width="600"/>
+</p>
+<div align="center">
+  <em>Figure 11: Centralized Workflow.</em>
+    <br/><br/>
+</div>
 
 ## Featured Branch Workflow
 
