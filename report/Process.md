@@ -203,10 +203,12 @@ But because our project preparation time is very short, and the duration of each
 The daily meetings held in Microsoft teams cannot meet the frequent communication needs of members. In order to improve the transparency and integrity of communication between members, we daily use WeChat as the main communication tool outside of the meeting. We have established a five-person chat group called "petstore fighting". All communication (except for task-related small meetings) is conducted in our WeChat group, which includes:
 - The exchange of project working documents between members is carried out in the WeChat group
 
-![]()
+![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/wechat1.png)
+
 - Evaluation of the work of team members. When a member completes a job, other members will write feedback to give feedback to help the content of the work better improve
 
 ![]()
+
 - When there are some minor changes in project decision-making, members will post messages via WeChat.
 
 # Team Roles
