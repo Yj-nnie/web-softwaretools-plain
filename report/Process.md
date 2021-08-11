@@ -109,7 +109,7 @@ User stories are often expressed in a simple sentence, structured as follows:
 "As a [persona], I [want to], [so that]."
 
 <p align="center">
-  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20concept.PNG" width="600"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20concept.PNG" width="500"/>
 </p>
 <div align="center">
   <em>Figure 6: The key difference between Waterfall and Agile.</em>
