@@ -84,6 +84,7 @@ According to the above structure, at the stage of sprint 1, as shown in the tabl
 
 ![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20story.png)
 
+## Details of the sprints 
 During the entire project development phase, our team carried out a total of five sprints. Because our design time is only two weeks, we have shortened the time of each sprint. The duration of the first four sprints is basically 2 to 3 days. The main content of each sprint is to establish and improve the 1 or 2 features that need to be established for the project. During the sprint, the members' working attitude was very positive. In the end, we successfully completed the first four sprints and established most of the functions of petstore. After the fourth sprint is over, the focus of our fifth sprint is mainly to improve the report of the project and to check leaks and fill the vacancy in the function of the project. The duration of sprint 5 is one week. The following are the details of our work during the sprint:
 
 ### Sprint 1  (7.27-7.29)
