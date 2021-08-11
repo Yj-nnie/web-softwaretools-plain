@@ -235,7 +235,7 @@ Microsoft teams is a tool for our team members to conduct meetings. Our team hel
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/teams%205.gif" width="600"/>
 </p>
 <div align="center">
-  <em>Figure 8: The key difference between Waterfall and Agile.</em>
+  <em>Figure 8: The group's activity on Teams.</em>
     <br/><br/>
 </div>
 
@@ -257,7 +257,7 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/wechat1.png" width="600"/>
 </p>
 <div align="center">
-  <em>Figure 9: The key difference between Waterfall and Agile.</em>
+  <em>Figure 9: File exchange between members.</em>
     <br/><br/>
 </div>
 
@@ -267,7 +267,7 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/wechat2.png" width="600"/>
 </p>
 <div align="center">
-  <em>Figure 10: The key difference between Waterfall and Agile.</em>
+  <em>Figure 10: Work feedback among members.</em>
     <br/><br/>
 </div>
 
