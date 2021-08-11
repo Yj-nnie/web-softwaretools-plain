@@ -93,7 +93,7 @@ Under the Scrum framework, the development of the project is mainly divided into
 - After the completion of each sprint, team members need to hold a sprint review. During the meeting, members review the entire sprint process, show the functions that have been developed, discuss and reflect on the mistakes that occurred in this sprint, and avoid similar mistakes in the future.
 
 <p align="center">
-  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%20meet.png" width="600"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%20meet.png" width="500"/>
 </p>
 <div align="center">
   <em>Figure 5: The key difference between Waterfall and Agile.</em>
