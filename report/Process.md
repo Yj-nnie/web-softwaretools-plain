@@ -284,7 +284,7 @@ The design time of our project is only two weeks. In order to improve efficiency
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="850"/>
 </p>
 <div align="center">
-  <em>Figure 12: Continuous integration using git.</em>
+  <em>Figure 11: Continuous integration using git.</em>
     <br/><br/>
 </div>
 
