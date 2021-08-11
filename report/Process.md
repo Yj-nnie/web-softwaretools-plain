@@ -282,7 +282,7 @@ Our team uses Git for daily work. Git has some working modes that can be used, i
 
 ## Featured Branch Workflow
 
-## Gitfolw Workflow
+## Gitflow Workflow
 
 ## Our git working style
 
