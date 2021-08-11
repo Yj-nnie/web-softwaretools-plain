@@ -231,6 +231,14 @@ Outcomes
 ### Meeting structure and content
 Microsoft teams is a tool for our team members to conduct meetings. Our team held a total of six meetings throughout the two-week project development phase. The meeting log recorded our attendance at each meeting and the content of the meeting in detail.
 
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/teams%205.gif" width="600"/>
+</p>
+<div align="center">
+  <em>Figure 8: The key difference between Waterfall and Agile.</em>
+    <br/><br/>
+</div>
+
 According to the scrum framework, we conduct three types of meetings in a sprint:
 - Sprint planning: members plan what goals should be accomplished in this sprint. Assign different tasks according to the abilities of the members.
 - Daily scrum: members share their work problems with each other, and other members need help to solve the problems.
