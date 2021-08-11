@@ -7,7 +7,7 @@ Agile and waterfall are the two mainstream project management methodology. Agile
 Waterfall is a traditional project management method. Waterfall development usually spends a lot of time at the beginning to formulate very detailed plans and requirements, and then follow the plan step by step. In general, waterfall management is mainly a linear process. The steps include Requirements Determination, Design, Implementation, Testing, Deployment and Maintenance. All of the requirements for each step is completed before the next begins. All requirements for each step are completed before the next one starts.
 
 <p align="center">
-  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/waterfall.PNG" width="600"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/waterfall.PNG" width="800"/>
 </p>
 <div align="center">
   <em>Figure 1: The Waterfall workflow.</em>
