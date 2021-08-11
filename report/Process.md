@@ -77,7 +77,7 @@ When using scrum to implement agile development, the entire project is divided i
 Every sprint has a goal to complete. Sprint is equivalent to an agile cycle. We have to complete in a sprint cycle, including, design, build , test, review and other steps.
 
 <p align="center">
-  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%201.png" width="600"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%201.png" width="700"/>
 </p>
 <div align="center">
   <em>Figure 4: The key difference between Waterfall and Agile.</em>
