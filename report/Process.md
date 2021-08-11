@@ -276,9 +276,15 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
 # Team Roles
 
 # Continuous Integration
-Our team uses Git for the software project development. Specifically, we use The Centralized Workflow, which is a great Git workflow. The Centralized Workflow uses a central repository to serve as the single point-of-entry for all changes to the project. The only default  development is called main, and all changes made by members are committed into this branch.
+Our team uses Git for daily work. Git has some working modes that can be used, including: centralized workflow, featured branch workflow, and gitflow workflow. In the development of project, developers can mix and match aspects from different workflows to meet the development needs of the project.
 
-The design time of our project is only two weeks. In order to improve efficiency, team members are required to work at the same time in a short period of time. Git can provide each team member with their own local copy of the entire project, which gives each team member a isolated working environment. Team members can add and modify any of their own work in the local repository without taking into account the content of other members’ work.
+## Centralized Workflow
+
+## Featured Branch Workflow
+
+## Gitfolw Workflow
+
+## Our git working style
 
 <p align="center">
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="850"/>
