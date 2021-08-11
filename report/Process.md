@@ -29,7 +29,7 @@ On Dairy scrum, we discuss the next stage goal and distribute tasks. Then we add
 
 ### 3. Pull request and review
 
-After completing the development of a feature or the writing of a whole paragraph report, we all required to submit a **pull request** to merge the code of our respective branches into the **dev** branch. Then, the request content would be reviewed by the team’s manager (Jun) and other members. They mainly charged of the code and report quality and the conflicts resolving (Conflicts would be automatically displayed on GitHub when we submit a pull request, which is why we choose to do so). The code would be merged into the **dev** branch until the content was no need to modify.
+After completing the development of a feature or the writing of a whole paragraph report, we all required to submit a **pull request** to merge the code of our respective branches into the **dev** branch. Then, the request content would be reviewed by the team’s manager (Jun) and other members. They mainly charged of the code and report quality and the conflicts resolving (Conflicts would be automatically displayed on GitHub when we submit a pull request, that is why we choose to do so). The code would be merged into the **dev** branch until the content was no need to modify.
 
 ### 4. Track of progress
 
