@@ -108,11 +108,23 @@ As mentioned before, when using the Scum framework to develop a project, we must
 User stories are often expressed in a simple sentence, structured as follows:
 "As a [persona], I [want to], [so that]."
 
-![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20concept.PNG)
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20concept.PNG" width="600"/>
+</p>
+<div align="center">
+  <em>Figure 6: The key difference between Waterfall and Agile.</em>
+    <br/><br/>
+</div>
 
 According to the above structure, at the stage of sprint 1, as shown in the table below, we have constructed user stories. The information in the “Notes” column shows the result of the member meeting discussing whether to agree to petstore's construction of the feature. The “Sprint” column indicates in which sprint phase the function mentioned in the user story was built. Among them, for the needs mentioned by the ninth user, our members do not intend to incorporate this feature into the project, because we think it is unreasonable to judge someone’s best pet selection based on a quiz.
 
-![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20story.png)
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20story.png" width="600"/>
+</p>
+<div align="center">
+  <em>Figure 7: The key difference between Waterfall and Agile.</em>
+    <br/><br/>
+</div>
 
 ## 2. Details of the sprints 
 During the entire project development phase, our team carried out a total of five sprints. Because our design time is only two weeks, we have shortened the time of each sprint. The duration of the first four sprints is basically 2 to 3 days. The main content of each sprint is to establish and improve the 1 or 2 features that need to be established for the project. During the sprint, the members' working attitude was very positive. In the end, we successfully completed the first four sprints and established most of the functions of petstore. After the fourth sprint is over, the focus of our fifth sprint is mainly to improve the report of the project and to check leaks and fill the vacancy in the function of the project. The duration of sprint 5 is one week. The following are the details of our work during the sprint:
@@ -232,10 +244,24 @@ But because our project preparation time is very short, and the duration of each
 ### Increased transparency and integrity of communication
 The daily meetings held in Microsoft teams cannot meet the frequent communication needs of members. In order to improve the transparency and integrity of communication between members, we daily use WeChat as the main communication tool outside of the meeting. We have established a five-person chat group called "petstore fighting". All communication (except for task-related small meetings) is conducted in our WeChat group, which includes:
 - The exchange of project working documents between members is carried out in the WeChat group
-![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/wechat1.png)
+
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/wechat1.png" width="600"/>
+</p>
+<div align="center">
+  <em>Figure 9: The key difference between Waterfall and Agile.</em>
+    <br/><br/>
+</div>
 
 - Evaluation of the work of team members. When a member completes a job, other members will write feedback to give feedback to help the content of the work better improve
-![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/wechat2.png)
+
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/wechat2.png" width="600"/>
+</p>
+<div align="center">
+  <em>Figure 10: The key difference between Waterfall and Agile.</em>
+    <br/><br/>
+</div>
 
 - When there are some minor changes in project decision-making, members will post messages via WeChat.
 
@@ -246,7 +272,13 @@ Our team uses Git for the software project development. Specifically, we use The
 
 The design time of our project is only two weeks. In order to improve efficiency, team members are required to work at the same time in a short period of time. Git can provide each team member with their own local copy of the entire project, which gives each team member a isolated working environment. Team members can add and modify any of their own work in the local repository without taking into account the content of other members’ work.
 
-![](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png)
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="600"/>
+</p>
+<div align="center">
+  <em>Figure 12: The key difference between Waterfall and Agile.</em>
+    <br/><br/>
+</div>
 
 ### 1. Clone
 Decompose the project into a number of different work content, and each member is responsible for the corresponding part. Members clone the central repository and create their own branch. In this way of branching, everyone can work independently and manage each other to check each other's progress, and will not confuse everyone's work content.
