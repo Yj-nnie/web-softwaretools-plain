@@ -303,6 +303,9 @@ Feature Branch Workflow has two advantages for our members to refer to:
 Gitflow Workflow is the same as other workflows. Developers work locally and push branches to the central repository. The only difference is the branch structure of the project. Git Workflow assigns very specific roles to different branches and defines how and when they should interact. In addition to establishing feature branches, it also uses separate branches to prepare, maintain, and document releases.
 
 ## Our Git Working Style
+The design time of our project is only two weeks. The main work content is to add some features to petstore and write project report. Therefore, we need to submit changes frequently in a short period of time. In order to prevent the system from becoming chaotic, as mentioned earlier, Centralized Workflow is not suitable for our working mode.
+
+Our working style combines the characteristics of git workflow and feature branch workflow. Specifically, because our members have a clear division of labor, each member has its own project functions and parts, and the branching method of featured branch workflow provides us with a reference. But our branch is named after the role of the team member, not based on the function description, which is slightly different from the featured branch workflow. In addition, although our working model is not as complicated as git workflow, we have also adopted some features of this workflow method. For example, we have set up a test branch specifically for testing functions. The figure below shows the continuous integration using git of our team.
 
 <p align="center">
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="850"/>
