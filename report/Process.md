@@ -300,6 +300,7 @@ Feature Branch Workflow has two advantages for our members to refer to:
 - In addition, Feature Branch Workflow can also use the pull request function, which is a way to initiate discussions among members around branches. They way gives members the opportunity to check the feature before it is integrated into the official project. Pull request make it easy for team to comment on each other's work. Once the pull request is accepted, the actual behavior of the publishing features is very similar to that in a centralized workflow. In short, the pull request function is a good way to encourage cooperation among members and simplify communication between members.
 
 ## Gitflow Workflow
+Gitflow Workflow is the same as other workflows. Developers work locally and push branches to the central repository. The only difference is the branch structure of the project. Git Workflow assigns very specific roles to different branches and defines how and when they should interact. In addition to establishing feature branches, it also uses separate branches to prepare, maintain, and document releases.
 
 ## Our git working style
 
@@ -332,7 +333,8 @@ So we changed our testing way by using **docker**. The only thing the tester nee
 When the work content does not need to be modified and all testing tasks have passed, we merged the **test** branch to the **main** branch and tagged it as 1.0.0 version for production environment.
 
 ## References
--
--
--
--
+1.
+2.
+3.https://www.atlassian.com/git/tutorials/comparing-workflows
+https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
+4.
