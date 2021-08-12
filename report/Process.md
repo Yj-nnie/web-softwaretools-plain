@@ -276,7 +276,7 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
 # Team Roles
 
 <p align="center">
-  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/role.PNG" width="800"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/role.PNG" width="1000"/>
 </p>
 <div align="center">
   <em>Figure 11: Team Roles.</em>
