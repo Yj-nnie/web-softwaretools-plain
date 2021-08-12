@@ -299,7 +299,7 @@ The Centralized Workflow uses a central repository to serve as the single point-
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="850"/>
 </p>
 <div align="center">
-  <em>Figure 11: Continuous integration using git.</em>
+  <em>Figure 12: Continuous integration using git.</em>
     <br/><br/>
 </div>
 
