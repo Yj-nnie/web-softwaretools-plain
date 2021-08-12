@@ -336,11 +336,10 @@ So we changed our testing way by using **docker**. The only thing the tester nee
 When the work content does not need to be modified and all testing tasks have passed, we merged the **test** branch to the **main** branch and tagged it as 1.0.0 version for production environment.
 
 ## References
-1.
+1.Agile Vs Waterfall: Know the Difference Between Methodologies - https://www.guru99.com/waterfall-vs-agile.html
 
-2.
+2.Beginner's Guide to Agile with Scrum | Dennis Kayser - https://www.forecast.app/blog/beginners-guide-to-scrum
 
-3.https://www.atlassian.com/git/tutorials/comparing-workflows
+3.Comparing Workflows | Atlassian - https://www.atlassian.com/git/tutorials/comparing-workflows
 
-4.https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
-
+4.Distributed Git - Distributed Workflows - https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
