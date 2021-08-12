@@ -14,13 +14,13 @@ Waterfall is a traditional project management method. Waterfall development usua
     <br/><br/>
 </div>
 
-### Advantages of waterfall 
+### Advantages of Waterfall 
 - It works well for smaller size projects where requirements are easily understandable.
 - Precise project planning and fixed deadlines.
 - A predictable and well-specified final product.
 - Clear roles and responsibilities among members
 
-### Disadvantages of waterfall 
+### Disadvantages of Waterfall 
 - It is not an ideal model for a large size project.
 - Lack of flexibility after project planning.
 - If the market demand or technological environment changes, the project cannot meet the latest market demand.
@@ -37,12 +37,12 @@ Agile project management is iterative, which means that agile is completed in st
     <br/><br/>
 </div>
 
-### Advantages of agile
+### Advantages of Agile
 - The project is flexible, and the content of the project can be continuously improved and revised as the project develops.
 - Strict rhythm, flexibility of deadlines.
 - Frequent updates and increased user value.
 
-### Disadvantages of agile
+### Disadvantages of Agile
 - Susceptible to a lack of focus and knee-jerk reactions from sprint to sprint.
 - Loose planning can lead to unpredictable finished products and date delays.
 
@@ -61,7 +61,7 @@ Agile project management is iterative, which means that agile is completed in st
     <br/><br/>
 </div>
 
-## 4. Our choice
+## 4. Our Choice
 The working method of our group follows the agile management method. This is mainly based on the following reasons:
 
 - This project needs to add new functions to the petstore site. At the beginning of the project, we listed several new functions that can be added, but the specific implementation of several new functions and the final effect of the new functions are uncertain. Therefore, we need to continuously adjust our project goals based on the results of the work during the subsequent development of the project. Based on this, the agile concept is more suitable for our project management.
@@ -100,9 +100,9 @@ Under the Scrum framework, the development of the project is mainly divided into
     <br/><br/>
 </div>
 
-# Our sprints overview
+# Our Sprints Overview
 
-## 1. User story creation
+## 1. User Story Creation
 As mentioned before, when using the Scum framework to develop a project, we must first collect user stories, which is the smallest and very critical unit of work in the Scrum framework. A user story is a short, informal description of the feature of a project, usually from the user’s perspective. Once the team agrees on a user story, this feature will be added to the product backlog and used as a goal for the subsequent sprint.
 
 User stories are often expressed in a simple sentence, structured as follows:
@@ -126,7 +126,7 @@ According to the above structure, at the stage of sprint 1, as shown in the tabl
     <br/><br/>
 </div>
 
-## 2. Details of the sprints 
+## 2. Details of the Sprints 
 During the entire project development phase, our team carried out a total of five sprints. Because our design time is only two weeks, we have shortened the time of each sprint. The duration of the first four sprints is basically 2 to 3 days. The main content of each sprint is to establish and improve the 1 or 2 features that need to be established for the project. During the sprint, the members' working attitude was very positive. In the end, we successfully completed the first four sprints and established most of the functions of petstore. After the fourth sprint is over, the focus of our fifth sprint is mainly to improve the report of the project and to check leaks and fill the vacancy in the function of the project. The duration of sprint 5 is one week. The following are the details of our work during the sprint:
 
 ### Sprint 1  (7.27-7.29)
@@ -227,8 +227,8 @@ Outcomes
 - In terms of user authentication, a function that allows users to update their information has been added.
 - Further optimize the layout of the website homepage and add a carousel.
 
-## 3. Daily communication methods and tools
-### Meeting structure and content
+## 3. Daily Communication Methods and Tools
+### Meeting Structure and Content
 Microsoft teams is a tool for our team members to conduct meetings. Our team held a total of six meetings throughout the two-week project development phase. The meeting log recorded our attendance at each meeting and the content of the meeting in detail.
 
 <p align="center">
@@ -249,7 +249,7 @@ But because our project preparation time is very short, and the duration of each
 - Develop project goals for the next sprint
 - For difficult work problems, 2-3 people start a meeting in pairs and help each other complete tasks.
 
-### Increased transparency and integrity of communication
+### Increased Transparency and Integrity of Communication
 The daily meetings held in Microsoft teams cannot meet the frequent communication needs of members. In order to improve the transparency and integrity of communication between members, we daily use WeChat as the main communication tool outside of the meeting. We have established a five-person chat group called "petstore fighting". All communication (except for task-related small meetings) is conducted in our WeChat group, which includes:
 - The exchange of project working documents between members is carried out in the WeChat group
 
@@ -302,7 +302,7 @@ Feature Branch Workflow has two advantages for our members to refer to:
 ## Gitflow Workflow
 Gitflow Workflow is the same as other workflows. Developers work locally and push branches to the central repository. The only difference is the branch structure of the project. Git Workflow assigns very specific roles to different branches and defines how and when they should interact. In addition to establishing feature branches, it also uses separate branches to prepare, maintain, and document releases.
 
-## Our git working style
+## Our Git Working Style
 
 <p align="center">
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="850"/>
@@ -334,9 +334,10 @@ When the work content does not need to be modified and all testing tasks have pa
 
 ## References
 1.
+
 2.
+
 3.https://www.atlassian.com/git/tutorials/comparing-workflows
 
+4.https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
 
-https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
-4.
