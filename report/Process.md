@@ -275,6 +275,14 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
 
 # Team Roles
 
+<p align="center">
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/role.PNG" width="800"/>
+</p>
+<div align="center">
+  <em>Figure 11: Team Roles.</em>
+    <br/><br/>
+</div>
+
 # Continuous Integration
 Our team uses Git for daily work. Git has some working modes that can be used, including: centralized workflow, featured branch workflow, and gitflow workflow. In the development of project, developers can mix and match aspects from different workflows to meet the development needs of the project.
 
@@ -285,7 +293,7 @@ The Centralized Workflow uses a central repository to serve as the single point-
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/centralized.PNG" width="600"/>
 </p>
 <div align="center">
-  <em>Figure 11: Centralized Workflow.</em>
+  <em>Figure 12: Centralized Workflow.</em>
     <br/><br/>
 </div>
 
@@ -311,7 +319,7 @@ Our working style combines the characteristics of git workflow and feature branc
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="850"/>
 </p>
 <div align="center">
-  <em>Figure 12: Continuous integration using git.</em>
+  <em>Figure 13: Continuous integration using git.</em>
     <br/><br/>
 </div>
 
