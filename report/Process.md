@@ -292,6 +292,12 @@ The Centralized Workflow uses a central repository to serve as the single point-
 The advantage of Centralized Workflow is that it provides staff with their own local copy of the entire project, which gives each member a isolated working environment. However, a big flaw of Centralized Workflow is that it is the "maker of trouble and conflict" .Because if both developers make changes, the first developer who pushes the changes to the central database   can do so, but the second developer must merge the work of the first developer before pushing the changes up, so as not to overwrite the changes of the first developer. This mechanism leads to a bit of confusion in the whole system if there are too many developers, frequent submission of changes and merge conflicts. This is also the main reason why our team does not choose this workflow. 
 
 ## Featured Branch Workflow
+Feature Branch Workflow still uses a central repository. However, developers do not submit directly on the local branch, but create a corresponding new branch each time they start working on a new feature. This approach is to give each branch a clear and highly focused goal.
+
+Feature Branch Workflow has two advantages for our members to refer to:
+- Because all function development should be carried out in a dedicated branch instead of the main branch, this encapsulation allows multiple developers to easily handle specific functions without interfering with the central repository.
+
+- In addition, Feature Branch Workflow can also use the pull request function, which is a way to initiate discussions among members around branches. They way gives members the opportunity to check the feature before it is integrated into the official project. Pull request make it easy for team to comment on each other's work. Once the pull request is accepted, the actual behavior of the publishing features is very similar to that in a centralized workflow. In short, the pull request function is a good way to encourage cooperation among members and simplify communication between members.
 
 ## Gitflow Workflow
 
