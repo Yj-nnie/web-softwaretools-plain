@@ -254,7 +254,7 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
 - The exchange of project working documents between members is carried out in the WeChat group
 
 <p align="center">
-  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/wechat1.png" width="600"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/Wechat.jpg" width="600"/>
 </p>
 <div align="center">
   <em>Figure 9: File exchange between members.</em>
@@ -336,5 +336,7 @@ When the work content does not need to be modified and all testing tasks have pa
 1.
 2.
 3.https://www.atlassian.com/git/tutorials/comparing-workflows
+
+
 https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
 4.
