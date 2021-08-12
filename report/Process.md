@@ -289,6 +289,8 @@ The Centralized Workflow uses a central repository to serve as the single point-
     <br/><br/>
 </div>
 
+The advantage of Centralized Workflow is that it provides staff with their own local copy of the entire project, which gives each member a isolated working environment. However, a big flaw of Centralized Workflow is that it is the "maker of trouble and conflict" .Because if both developers make changes, the first developer who pushes the changes to the central database   can do so, but the second developer must merge the work of the first developer before pushing the changes up, so as not to overwrite the changes of the first developer. This mechanism leads to a bit of confusion in the whole system if there are too many developers, frequent submission of changes and merge conflicts. This is also the main reason why our team does not choose this workflow. 
+
 ## Featured Branch Workflow
 
 ## Gitflow Workflow
