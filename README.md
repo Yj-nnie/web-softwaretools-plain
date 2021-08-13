@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-###### *We hope to provide you with an amazing and easy pet-choosing experience*
+*We hope to provide you with an amazing and easy pet-choosing experience*
 </div>
 
 ## Table of contents
@@ -12,13 +12,13 @@
 ##### Checkout our Webpage
 :link:  --------网址 这里 -----
 
-###### :bust_in_silhouette: To sign in as admin: 
-Username: 
-Password:
+###### To sign in as admin: 
+:bust_in_silhouette: Username: 
+:key: Password:
     
-###### :busts_in_silhouette: To sign in as a standard user: 
-Username: 
-Password: 
+###### To sign in as a standard user: 
+:busts_in_silhouette: Username: 
+:key: Password: 
 
 
 
