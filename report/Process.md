@@ -34,7 +34,7 @@ Waterfall is a traditional project management method. Waterfall development usua
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/waterfall.PNG" width="800"/>
 </p>
 <div align="center">
-  <em>Figure 1: The Waterfall workflow.</em>
+  <em>Figure 1: The Waterfall Workflow.</em>
     <br/><br/>
 </div>
 
@@ -57,7 +57,7 @@ Agile project management is iterative, which means that agile is completed in st
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/agile%201.png" width="500"/>
 </p>
 <div align="center">
-  <em>Figure 2: The Agile workflow.</em>
+  <em>Figure 2: The Agile Workflow.</em>
     <br/><br/>
 </div>
 
@@ -81,7 +81,7 @@ Agile project management is iterative, which means that agile is completed in st
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/tra%20agile.png" width="600"/>
 </p>
 <div align="center">
-  <em>Figure 3: The key difference between Waterfall and Agile.</em>
+  <em>Figure 3: The Key Difference between Waterfall and Agile.</em>
     <br/><br/>
 </div>
 
