@@ -36,11 +36,11 @@ The creation of this wireframe also allowed us to clarify what feature we should
 * The categories of pets (make the site more clear)
 * The function of shooping cart (make user see what they choose at the moment)
 
-Based on the above deign choices, we decided to make the first survey for users. The final design scheme is decided according to the user feedback, including the layout of the site, site features and site improvements. This is our [first survey]().
+Based on the above deign choices, we decided to make the first survey for users. The final design scheme is decided according to the user feedback, including the layout of the site, site features and site improvements. This is our [first survey](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dev/report/Fron%20End%20UX.md#survey-1-the-proposal-of-the-website).
 
 ## The prototype implemention
 
-After the first survey, we focused on developing it along with above user feedback, which further aided us in implemting a user centric methodology. We did the paper prototype in more detail to show all features of the site, including logging in, placing the order and classifying by pets species, and the front end develop the layout of the whole website. We decided to represent this paper prototype to users and gather their feedback to develop the website. This is the [second survey]().
+After the first survey, we focused on developing it along with above user feedback, which further aided us in implemting a user centric methodology. We did the paper prototype in more detail to show all features of the site, including logging in, placing the order and classifying by pets species, and the front end develop the layout of the whole website. We decided to represent this paper prototype to users and gather their feedback to develop the website. This is the [second survey](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dev/report/Fron%20End%20UX.md#survey-2-the-feedback-of-the-paper-prototype).
 
 ### Objectives
 
