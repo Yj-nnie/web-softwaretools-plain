@@ -20,17 +20,18 @@
 ###### :key: Password: 
 
 
+___
 
 ## Table of contents
 
-#### Background
+#### [Background](report/Background.md)
    - **Abstract**: Overview and background of our web store - Fluff-galore
    - **Objectives**: Overall aims divided into smaller chunks 
    - **System design**: System architecture diagram, Class diagram, Sequence Diagram
    - **Features**: table of all features included in the project
 
 
-#### Features
+#### [Features](report/Features.md)
 - **All possibile features**: a list of all features
 - **Detailed description and Justification of the following features**:
     - Implemented Features:   
@@ -44,20 +45,20 @@
 - **Implementation and testing**: Functional Testing of all implemented features
     
 
-#### Implementations - Front End /UX
+#### [Implementations - Front End /UX](report/Front End UX.md)
 
 - **UX Development**: A roadmap of initial prototype to the final Design with Stakeholder's perspectives
 - **Final UX**: Demonstration of final product with detailed code snippets to demonstrate feature implementation
 - **Design Choices**: Design methodologies, Development tools, UI design
 - **Evaluation**: User surveys, evaluations and findings on the design of web store based on user surveys
 
-#### Process 
+#### [Process](report/Process.md) 
 - **Group Working**: An overview of available working style, and justification of our own choice
 - **Our Sprints Overview**: A more detailed record of our communication style and sprint content
 - **Team Roles**: a brief record of team members' roles
 - **Continous Integration**: Overview of the team's workflow with github
 
-#### Conclusion
+#### [Conclusion](report/Conclusion.md)
 
 - **Summary**: a short summary of the project
 - **Analysis**: a condensed overarching reflection of features achieved in the light of overall objectives
