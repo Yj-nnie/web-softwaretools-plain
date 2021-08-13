@@ -1,28 +1,28 @@
 # Contents
 
-* [Group working](Process.md#Group-Working)
- 1. [Waterfall](Process.md#1-Waterfall)
- 2. [Agile](Process.md#2-Agile)
- 3. [The Key Difference between Waterfall and Agile](Process.md#3-The-Key-Difference-between-Waterfall-and-Agile)
- 4. [Our Choice of Methodology](Process.md#4-Our-Choice-of-Methodology)
+- [Group working](Process.md#Group-Working)
+  [1. Waterfall](Process.md#1-Waterfall)
+  [2. Agile](Process.md#2-Agile)
+  [3. The Key Difference between Waterfall and Agile](Process.md#3-The-Key-Difference-between-Waterfall-and-Agile)
+  [4. Our Choice of Methodology](Process.md#4-Our-Choice-of-Methodology)
  
-The Agile Project Management Framework used-Scrum(Process.md)
- Scrum & Sprint(Process.md)
+- [The Agile Project Management Framework used-Scrum](Process.md)
+     [Scrum & Sprint](Process.md)
 
-Our Sprints Overview(Process.md)
- 1. User Story Creation(Process.md)
- 2. Details of Our Sprints(Process.md)
- 3.Daily Communication Methods and Tools(Process.md)
+- [Our Sprints Overview](Process.md)
+  [1. User Story Creation](Process.md)
+  [2. Details of Our Sprints](Process.md)
+  [3. Daily Communication Methods and Tools](Process.md)
 
-Team Roles(Process.md)
+- [Team Roles](Process.md)
 
-Continuous Integration(Process.md)
- 1. Centralized Workflow(Process.md)
- 2. Featured Branch Workflow(Process.md)
- 3. Gitflow Workflow(Process.md)
- 4. Our Git Working Style(Process.md)
+- [Continuous Integration](Process.md)
+  [1. Centralized Workflow](Process.md)
+  [2. Featured Branch Workflow](Process.md)
+  [3. Gitflow Workflow](Process.md)
+  [4. Our Git Working Style](Process.md)
 
-References(Process.md)
+- [References](Process.md)
 
 # Group Working
 Before the start of any group project, it is important to decide which project management framework and concept to adopt, which determines the future development method of the project, organizational changes and other important aspects.
