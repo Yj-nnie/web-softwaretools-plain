@@ -1,3 +1,10 @@
+<div align=center>
+<img src= https://i.imgur.com/9NwQH57.png=centerme > 
+
+</div>	
+
+___
+
 <div align="center">
 <h1>Welcome to Fluff-galore<img src="https://raw.githubusercontent.com/Yj-nnie/web-softwaretools-plain/dev/favicon.ico" alt="" width="75" height="75" />
 </h1>
