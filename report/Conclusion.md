@@ -1,3 +1,10 @@
+<div align=center>
+<img src= https://i.imgur.com/9NwQH57.png=centerme > 
+
+</div>	
+
+___
+
 # Summary
 Our team set out to create an online store for a local pet shop called Fluff-galore. 
 Its primary aim is to create a simple and basic online store in order to keep up with the shift in shopping habits in recent years.
