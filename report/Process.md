@@ -7,22 +7,21 @@
   4. [Our Choice of Methodology](Process.md#4-Our-Choice-of-Methodology)
  
 - [The Agile Project Management Framework used-Scrum](Process.md#The-Agile-Project-Management-Framework-used---Scrum)
-     [Scrum & Sprint](Process.md#-Scrum-&-Sprint)
+ 
+- [Our Sprints Overview](Process.md#Our-Sprints-Overview)
+  1. [User Story Creation](Process.md#User-Story-Creation)
+  2. [Details of Our Sprints](Process.md#Details-of-Our-Sprints)
+  3. [Daily Communication Methods and Tools](Process.md#Daily-Communication-Methods-and-Tools)
 
-- [Our Sprints Overview](Process.md)
-  [1. User Story Creation](Process.md)
-  [2. Details of Our Sprints](Process.md)
-  [3. Daily Communication Methods and Tools](Process.md)
+- [Team Roles](Process.md#Team-Roles)
 
-- [Team Roles](Process.md)
+- [Continuous Integration](Process.md#Continuous-Integration)
+  1. [Centralized Workflow](Process.md#Centralized-Workflow)
+  2. [Featured Branch Workflow](Process.md#Featured-Branch-Workflow)
+  3. [Gitflow Workflow](Process.md#Gitflow-Workflow)
+  4. [Our Git Working Style](Process.md#Our-Git-Working-Style)
 
-- [Continuous Integration](Process.md)
-  [1. Centralized Workflow](Process.md)
-  [2. Featured Branch Workflow](Process.md)
-  [3. Gitflow Workflow](Process.md)
-  [4. Our Git Working Style](Process.md)
-
-- [References](Process.md)
+- [References](Process.md#References)
 
 # Group Working
 Before the start of any group project, it is important to decide which project management framework and concept to adopt, which determines the future development method of the project, organizational changes and other important aspects.
