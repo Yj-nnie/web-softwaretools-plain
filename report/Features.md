@@ -1,3 +1,9 @@
+<div align=center>
+<img src= https://i.imgur.com/9NwQH57.png=centerme > 
+
+</div>	
+
+___
 # ALL Possible Features
 
 This is section presents a list of all features that we have considered to implement:
@@ -151,7 +157,7 @@ This is to be a small app to be integrated onto the home page of our pet store, 
 This was initially a must implement feature for the development team as it would add the fun aspect of pet choosing into a user's online shopping experience. However, later on we realized that it would not be fair to discern someone's best pet choice based on a few questions. Real life case for each individual would be much more complicated than a few questions could encompass. Additionally, speaking from past experience, our past customers had always entered the pet shop with their mind made up, and this trend that we have gathered from the past renders this feature futile. It would make our online shop  fun, but it slightly strayed off from the main objectives defined for the design of this website, which is to provide a visually pleasing and efficient shopping experience. This feature might make customers who play it second guess their decision.
 
 
-
+___
 ## Implementation and Testing: 
 
 Here we focus on testing for all functionalities of our web store, for a more detailed implementation, please goto [Implementation - Front end UX ](../report/Front&#32End&#32UX.md)
