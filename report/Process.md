@@ -1,3 +1,29 @@
+# Contents
+
+Group working(# Group Working)
+ 1. Waterfall()
+ 2. Agile()
+ 3. The Key Difference between Waterfall and Agile()
+ 4. Our Choice of Methodology()
+ 
+The Agile Project Management Framework used-Scrum()
+ Scrum & Sprint()
+
+Our Sprints Overview()
+ 1. User Story Creation()
+ 2. Details of Our Sprints()
+ 3.Daily Communication Methods and Tools()
+
+Team Roles()
+
+Continuous Integration()
+ 1. Centralized Workflow()
+ 2. Featured Branch Workflow()
+ 3. Gitflow Workflow()
+ 4. Our Git Working Style()
+
+References()
+
 # Group Working
 Before the start of any group project, it is important to decide which project management framework and concept to adopt, which determines the future development method of the project, organizational changes and other important aspects.
 
@@ -46,7 +72,7 @@ Agile project management is iterative, which means that agile is completed in st
 - Susceptible to a lack of focus and knee-jerk reactions from sprint to sprint.
 - Loose planning can lead to unpredictable finished products and date delays.
 
-## 3. The key difference between waterfall and agile
+## 3. The Key Difference between Waterfall and Agile
 - Agile allows the requirements of the project to be changed and further specified during the development of the project, but once the project starts, waterfall does not change the scope of the requirements
 
 - Agile method is more flexible, while waterfall is a structured project development method
@@ -61,14 +87,14 @@ Agile project management is iterative, which means that agile is completed in st
     <br/><br/>
 </div>
 
-## 4. Our Choice
+## 4. Our Choice of Methodology
 The working method of our group follows the agile management method. This is mainly based on the following reasons:
 
 - This project needs to add new functions to the petstore site. At the beginning of the project, we listed several new functions that can be added, but the specific implementation of several new functions and the final effect of the new functions are uncertain. Therefore, we need to continuously adjust our project goals based on the results of the work during the subsequent development of the project. Based on this, the agile concept is more suitable for our project management.
 
 - In addition, our project preparation time is only two weeks. The short preparation time requires us to decompose the complex project into multiple work parts to be completed by different members. Team members need to regularly check and improve each decomposed work product. Consequently, we decided to adopt agile concepts at the beginning of the project.
 
-# The agile project management framework used-Scrum
+# The Agile Project Management Framework used-Scrum
 Agile development is a development method and concept. There are many models for agile development, such as Scrum model, XP extreme programming and so on. The Scrum model is the most used development model in agile development, accounting for more than 66%. Our team uses the agile development framework of scrum.
 
 ## Scrum & Sprint
@@ -126,7 +152,7 @@ According to the above structure, at the stage of sprint 1, as shown in the tabl
     <br/><br/>
 </div>
 
-## 2. Details of the Sprints 
+## 2. Details of Our Sprints 
 During the entire project development phase, our team carried out a total of five sprints. Because our design time is only two weeks, we have shortened the time of each sprint. The duration of the first four sprints is basically 2 to 3 days. The main content of each sprint is to establish and improve the 1 or 2 features that need to be established for the project. During the sprint, the members' working attitude was very positive. In the end, we successfully completed the first four sprints and established most of the functions of petstore. After the fourth sprint is over, the focus of our fifth sprint is mainly to improve the report of the project and to check leaks and fill the vacancy in the function of the project. The duration of sprint 5 is one week. The following are the details of our work during the sprint:
 
 ### Sprint 1  (7.27-7.29)
@@ -287,7 +313,7 @@ Members choose what they are good at according to their areas of expertise. In t
 # Continuous Integration
 Our team uses Git for daily work. Git has some working modes that can be used, including: centralized workflow, featured branch workflow, and gitflow workflow. In the development of project, developers can mix and match aspects from different workflows to meet the development needs of the project.
 
-## Centralized Workflow
+## 1. Centralized Workflow
 The Centralized Workflow uses a central repository to serve as the single point-of-entry for all changes to the project. The only default development is called main, and all changes made by members are committed into this branch.
 
 <p align="center">
@@ -300,7 +326,7 @@ The Centralized Workflow uses a central repository to serve as the single point-
 
 The advantage of Centralized Workflow is that it provides staff with their own local copy of the entire project, which gives each member a isolated working environment. However, a big flaw of Centralized Workflow is that it is the "maker of trouble and conflict" .Because if both developers make changes, the first developer who pushes the changes to the central database   can do so, but the second developer must merge the work of the first developer before pushing the changes up, so as not to overwrite the changes of the first developer. This mechanism leads to a bit of confusion in the whole system if there are too many developers, frequent submission of changes and merge conflicts. This is also the main reason why our team does not choose this workflow. 
 
-## Featured Branch Workflow
+## 2. Featured Branch Workflow
 Feature Branch Workflow still uses a central repository. However, developers do not submit directly on the local branch, but create a corresponding new branch each time they start working on a new feature. This approach is to give each branch a clear and highly focused goal.
 
 Feature Branch Workflow has two advantages for our members to refer to:
@@ -308,10 +334,10 @@ Feature Branch Workflow has two advantages for our members to refer to:
 
 - In addition, Feature Branch Workflow can also use the pull request function, which is a way to initiate discussions among members around branches. They way gives members the opportunity to check the feature before it is integrated into the official project. Pull request make it easy for team to comment on each other's work. Once the pull request is accepted, the actual behavior of the publishing features is very similar to that in a centralized workflow. In short, the pull request function is a good way to encourage cooperation among members and simplify communication between members.
 
-## Gitflow Workflow
+## 3. Gitflow Workflow
 Gitflow Workflow is the same as other workflows. Developers work locally and push branches to the central repository. The only difference is the branch structure of the project. Git Workflow assigns very specific roles to different branches and defines how and when they should interact. In addition to establishing feature branches, it also uses separate branches to prepare, maintain, and document releases.
 
-## Our Git Working Style
+## 4. Our Git Working Style
 The design time of our project is only two weeks. The main work content is to add some features to petstore and write project report. Therefore, we need to submit changes frequently in a short period of time. In order to prevent the system from becoming chaotic, as mentioned earlier, Centralized Workflow is not suitable for our working mode.
 
 Our working style combines the characteristics of git workflow and feature branch workflow. Specifically, because our members have a clear division of labor, each member has its own project functions and parts, and the branching method of featured branch workflow provides us with a reference. But our branch is named after the role of the team member, not based on the function description, which is slightly different from the featured branch workflow. In addition, although our working model is not as complicated as git workflow, we have also adopted some features of this workflow method. For example, we have set up a test branch specifically for testing functions. The figure below shows the continuous integration using git of our team.
