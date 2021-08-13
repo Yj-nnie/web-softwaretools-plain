@@ -1,3 +1,10 @@
+<div align=center>
+<img src= https://i.imgur.com/9NwQH57.png=centerme > 
+
+</div>	
+
+___
+
 # Abstract
 
 With the advent of the internet, increasing number of people are shopping online, in order to keep up with the changing consuming habit and to potentially reach out to a greater number of potential customers, it is important that we create an online pet shop.
