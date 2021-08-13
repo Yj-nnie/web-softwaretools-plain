@@ -148,7 +148,7 @@ According to the above structure, at the stage of sprint 1, as shown in the tabl
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/User%20Story.png" width="1000"/>
 </p>
 <div align="center">
-  <em>Figure 7: User story creation.</em>
+  <em>Figure 7: User Story Creation.</em>
     <br/><br/>
 </div>
 
