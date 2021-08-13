@@ -40,7 +40,7 @@ Based on the above deign choices, we decided to make the first survey for users.
 
 ## The prototype implemention
 
-After the first survey, we focused on developing it along with above user feedback, which further aided us in implemting a user centric methodology. We did the paper prototype in more detail to show all features of the site, including logging in, placing the order and classifying by pets species, and the front end develop the layout of the whole website. We decided to represent this paper prototype to users and gather their feedback to develop the website. The second survey details are in the part of Evaluation.
+After the first survey, we focused on developing it along with above user feedback, which further aided us in implemting a user centric methodology. We did the paper prototype in more detail to show all features of the site, including logging in, placing the order and classifying by pets species, and the front end develop the layout of the whole website. We decided to represent this paper prototype to users and gather their feedback to develop the website. The second survey details are in the part of [Evaluation](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dev/report/Front%20End%20UX.md#survey-1-the-proposal-of-the-website).
 
 ### Objectives
 
