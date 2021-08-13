@@ -9,17 +9,17 @@
 - [The Agile Project Management Framework used-Scrum](Process.md#The-Agile-Project-Management-Framework-used---Scrum)
  
 - [Our Sprints Overview](Process.md#Our-Sprints-Overview)
-  1. [User Story Creation](Process.md#User-Story-Creation)
-  2. [Details of Our Sprints](Process.md#Details-of-Our-Sprints)
-  3. [Daily Communication Methods and Tools](Process.md#Daily-Communication-Methods-and-Tools)
+  1. [User Story Creation](Process.md#1-User-Story-Creation)
+  2. [Details of Our Sprints](Process.md#2-Details-of-Our-Sprints)
+  3. [Daily Communication Methods and Tools](Process.md#3-Daily-Communication-Methods-and-Tools)
 
 - [Team Roles](Process.md#Team-Roles)
 
 - [Continuous Integration](Process.md#Continuous-Integration)
-  1. [Centralized Workflow](Process.md#Centralized-Workflow)
-  2. [Featured Branch Workflow](Process.md#Featured-Branch-Workflow)
-  3. [Gitflow Workflow](Process.md#Gitflow-Workflow)
-  4. [Our Git Working Style](Process.md#Our-Git-Working-Style)
+  1. [Centralized Workflow](Process.md#1-Centralized-Workflow)
+  2. [Featured Branch Workflow](Process.md#2-Featured-Branch-Workflow)
+  3. [Gitflow Workflow](Process.md#3-Gitflow-Workflow)
+  4. [Our Git Working Style](Process.md#4-Our-Git-Working-Style)
 
 - [References](Process.md#References)
 
