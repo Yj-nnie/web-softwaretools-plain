@@ -7,12 +7,12 @@ Therefore our approach to the problem is to provide customers with an enjoyable 
 To achieve the goals, we have agreed on and successfully implemented four basic and yet indispensable features : 1) User creation authentication system 2) Pet search/display 3)Pet management 4) Online orders
 All of which was aimed to bring an efficient and safe way for pet owners from around the area to shop.
 
-During the three week time, we focused on setting a rough goal by confirming the features that we want to include, establishing communication tool and agreeing on the type of work style our team would adhere to. Second week we stressed on realizing most features and towards the week we would finalize the website. Third week we shifted our focus on peer assessment of team members' part of the report.  Over the course of these three weeks, we conducted user research based on what we have so far to help us better understand the requirements of stakeholders .
+In the first week, we focused on setting a rough goal by confirming the features that we want to include, establishing communication tool and agreeing on the type of work style our team would adhere to. For the second week we stressed on realizing most features and towards the week we would finalize the website. Finally for the third week we shifted our focus on peer assessment of team members' part of the report.  Over the course of these three weeks, we conducted user research based on what we have so far to help us better understand the requirements of stakeholders .
 
 
 # Analysis
 
-Efficiency and pleasant shopping/viewing experience are the main aims of this project. To achieve these two goals, we have stayed with a very generic but minimalistic design for our website. 
+Efficiency and pleasant shopping/viewing experience are the overarching aims of this project. To achieve these two goals, we have stayed with a very generic but minimalistic design for our website. 
 
 The success in realizing the 'efficiency' aspect of our design is attributed to the minimalistic design and intuitive layout of our website, including a menu bar we have placed on the top of our website. Our menu has included two drop-down menus that provides two different ways of searching for pets/items in the online inventory - pet category and pet availability status. This is a simple and yet quick way to help customers to shrink down the scope of their pet search instead of having to just to scroll down the whole page. 
 
