@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-*We hope to provide you with an amazing and easy pet-choosing experience*
+<em>We hope to provide you with an amazing and easy pet-choosing experience</em>
 </div>
 
 ## Table of contents
