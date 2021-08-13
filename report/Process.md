@@ -274,6 +274,7 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
 - When there are some minor changes in project decision-making, members will post messages via WeChat.
 
 # Team Roles
+Members choose what they are good at according to their areas of expertise. In the first group meeting, we successfully assign project tasks according to the requirements. Luming Liu is good at front-end and back-end, so he is mainly responsible for the functional construction of the project. At the same time, Ruiqing Du also assisted in the construction of part of the code. The other members are mainly responsible for writing project report. When some members encounter difficulties in their own work areas, other members will also help to complete this part of the work together. The following figure shows the contributions of various members in the project.
 
 <p align="center">
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/role.PNG" width="1000"/>
