@@ -223,5 +223,5 @@ Here is a list of all features that our team members have thought of. You will o
 </div>
 
 ___
-[Next: Features](../report/Features.md)
-[Back to Table of content](../README.md)
+:arrow_forward: [Next: Features](../report/Features.md)
+:arrow_backward: [Back to Table of content](../README.md)
