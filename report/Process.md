@@ -104,7 +104,7 @@ Every sprint has a goal to complete. Sprint is equivalent to an agile cycle. We 
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%201.png" width="700"/>
 </p>
 <div align="center">
-  <em>Figure 4: The key difference between Waterfall and Agile.</em>
+  <em>Figure 4: The Srucrure of Scrum.</em>
     <br/><br/>
 </div>
 
