@@ -293,7 +293,7 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/wechat2.png" width="600"/>
 </p>
 <div align="center">
-  <em>Figure 10: Work feedback among Members.</em>
+  <em>Figure 10: Work Feedback among Members.</em>
     <br/><br/>
 </div>
 
