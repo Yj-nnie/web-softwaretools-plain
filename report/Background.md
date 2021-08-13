@@ -30,6 +30,9 @@ ___
 
 
 # System Design
+
+Here you will find system diagrams of our website, for a more detailed explanation on feature implementation, please goto [Implementation - Front end UX ](../report/Front&#32End&#32UX.md)
+
 ## System architecture diagram
 
 <p align="center">
