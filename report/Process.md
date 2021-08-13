@@ -120,7 +120,7 @@ Under the Scrum framework, the development of the project is mainly divided into
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/sprint%20meet.png" width="500"/>
 </p>
 <div align="center">
-  <em>Figure 5: The key difference between Waterfall and Agile.</em>
+  <em>Figure 5: A Sprint in a Scrum.</em>
     <br/><br/>
 </div>
 
@@ -136,7 +136,7 @@ User stories are often expressed in a simple sentence, structured as follows:
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/user%20concept.PNG" width="500"/>
 </p>
 <div align="center">
-  <em>Figure 6: The structure of user story.</em>
+  <em>Figure 6: The Structure of User Story.</em>
     <br/><br/>
 </div>
 
@@ -259,7 +259,7 @@ Microsoft teams is a tool for our team members to conduct meetings. Our team hel
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/teams%209.gif" width="600"/>
 </p>
 <div align="center">
-  <em>Figure 8: The group's activity on Teams.</em>
+  <em>Figure 8: The Group's activity on Teams.</em>
     <br/><br/>
 </div>
 
@@ -281,7 +281,7 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/Wechat.jpg" width="600"/>
 </p>
 <div align="center">
-  <em>Figure 9: File exchange between members.</em>
+  <em>Figure 9: File Exchange between Members.</em>
     <br/><br/>
 </div>
 
@@ -291,7 +291,7 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/wechat2.png" width="600"/>
 </p>
 <div align="center">
-  <em>Figure 10: Work feedback among members.</em>
+  <em>Figure 10: Work feedback among Members.</em>
     <br/><br/>
 </div>
 
@@ -344,7 +344,7 @@ Our working style combines the characteristics of git workflow and feature branc
   <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="850"/>
 </p>
 <div align="center">
-  <em>Figure 13: Continuous integration using git.</em>
+  <em>Figure 13: Continuous Integration using Git.</em>
     <br/><br/>
 </div>
 
