@@ -45,7 +45,7 @@ ___
 - **Implementation and testing**: Functional Testing of all implemented features
     
 
-#### [Implementations - Front End /UX](report/Front End UX.md)
+#### [Implementations - Front End /UX](report/Front&#32End&#32UX.md)
 
 - **UX Development**: A roadmap of initial prototype to the final Design with Stakeholder's perspectives
 - **Final UX**: Demonstration of final product with detailed code snippets to demonstrate feature implementation
