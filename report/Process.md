@@ -6,7 +6,7 @@
   3. [The Key Difference between Waterfall and Agile](Process.md#3-The-Key-Difference-between-Waterfall-and-Agile)
   4. [Our Choice of Methodology](Process.md#4-Our-Choice-of-Methodology)
  
-- [The Agile Project Management Framework used-Scrum](Process.md#The-Agile-Project-Management-Framework-used---Scrum)
+- [The Agile Project Management with Scrum](Process.md#The-Agile-Project-Management-with-Scrum)
  
 - [Our Sprints Overview](Process.md#Our-Sprints-Overview)
   1. [User Story Creation](Process.md#1-User-Story-Creation)
@@ -93,7 +93,7 @@ The working method of our group follows the agile management method. This is mai
 
 - In addition, our project preparation time is only two weeks. The short preparation time requires us to decompose the complex project into multiple work parts to be completed by different members. Team members need to regularly check and improve each decomposed work product. Consequently, we decided to adopt agile concepts at the beginning of the project.
 
-# The Agile Project Management Framework used-Scrum
+# The Agile Project Management with Scrum
 Agile development is a development method and concept. There are many models for agile development, such as Scrum model, XP extreme programming and so on. The Scrum model is the most used development model in agile development, accounting for more than 66%. Our team uses the agile development framework of scrum.
 
 ## Scrum & Sprint
