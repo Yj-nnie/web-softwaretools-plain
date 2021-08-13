@@ -7,22 +7,21 @@
 <em>We hope to provide you with an amazing and easy pet-choosing experience</em>
 </div>
 
-## Table of contents
 
 ##### Checkout our Webpage
 :link:  --------网址 这里 -----
 
 ###### To sign in as admin: 
-:bust_in_silhouette: Username: 
-:key: Password:
+###### :bust_in_silhouette: Username: 
+###### :key: Password:
     
 ###### To sign in as a standard user: 
-:busts_in_silhouette: Username: 
-:key: Password: 
+###### :busts_in_silhouette: Username: 
+###### :key: Password: 
 
 
 
-### About our Web store
+## Table of contents
 
 #### Background
    - **Abstract**: Overview and background of our web store - Fluff-galore
