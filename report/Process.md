@@ -1,6 +1,5 @@
 # Contents
-
-* [Group working](Process.md#Group-Working)
+- [Group working](Process.md#Group-Working)
   1. [Waterfall](Process.md#1-Waterfall)
   2. [Agile](Process.md#2-Agile)
   3. [The Key Difference between Waterfall and Agile](Process.md#3-The-Key-Difference-between-Waterfall-and-Agile)
