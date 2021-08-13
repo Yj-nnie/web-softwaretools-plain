@@ -343,7 +343,7 @@ The design time of our project is only two weeks. The main work content is to ad
 Our working style combines the characteristics of git workflow and feature branch workflow. Specifically, because our members have a clear division of labor, each member has its own project functions and parts, and the branching method of featured branch workflow provides us with a reference. But our branch is named after the role of the team member, not based on the function description, which is slightly different from the featured branch workflow. In addition, although our working model is not as complicated as git workflow, we have also adopted some features of this workflow method. For example, we have set up a test branch specifically for testing functions. The figure below shows the continuous integration using git of our team.
 
 <p align="center">
-  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="950"/>
+  <img src="https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/git.png" width="1000"/>
 </p>
 <div align="center">
   <em>Figure 13: Continuous Integration using Git.</em>
