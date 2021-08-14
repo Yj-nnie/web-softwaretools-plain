@@ -4,6 +4,25 @@
 </div>	
 
 ___
+# Contents
+
+- [List of ALL possible Features](#Features.md#ALL-Possible-Features)
+- Description and Justification of Implemented Features
+  1. [User creation authentication system](#Features.md#User-creation-authentication-system)
+  2. [Pet Management](#Features.md#Pet-management)
+  3. [Online Orders](#Features.md#Online-Orders)
+- Description and Justification of Dropped out Features
+  1. [Homepage Flash cartoon](#Features.md#Homepage-Flash-cartoon)
+  2. [Personality and perfect pet match quiz](#Features.md#Personality-and-perfect-pet-match-quiz)
+- [Implementation and Testing](#Features.md#Implementation-and-Testing)
+  1. [Home page](#Features.md#Home-page)
+  2. [Register page](#Features.md#Register-page)
+  3. [Login page](#Features.md#Login-page)
+  4. [Order page](#Features.md#Order-page)
+  5. [Detail page](#Features.md#Detail-page)
+  6. [Profile page](#Features.md#Profile-page)
+
+___
 # ALL Possible Features
 
 This is section presents a list of all features that we have considered to implement:
@@ -15,6 +34,8 @@ This is section presents a list of all features that we have considered to imple
 - Flash cartoon
 - Personality and pet match-macking quiz
 
+___
+# Implemented Features: 
 
 # User creation authentication system:
 ## Description:
@@ -130,8 +151,7 @@ This is feature is the heart of and the very definition for online shopping. Thi
 This feature is adding a few extra steps between customer and admin to help manage and track orders. With the ' Confirm receipt' option provided for customers, customers will be given control over the order and it will help to ensure that the Order will only end once they have physically received the item. This steps can also help to track down orders by protecting both the store and the customers in case the item gets lost. At least by clicking on 'Confirm send' will ensure that the store owner has sent out the item therefore making it easier to track down where the order might have gone wrong. 
 
 
-
-
+___
 # Dropped out features:
 Here are a few very cool features that the team had initially thought of, but our team eventually have decided not to implement them.  Please read on for a brief description and a short summary for reasons behind the elimination process.
 
@@ -162,13 +182,13 @@ ___
 
 Here we focus on testing for all functionalities of our web store, for a more detailed implementation, please goto [Implementation - Front end UX ](../report/Front_End_UX.md)
 
-# Testing:
+### Testing:
 
 The test work of the online pet store is mainly designed to find the defects in the function and performance of the lonline pet store, and to modify the system in time after the test, to ensure the smooth on-line of the system, and ensure that users have a good use experience in the process of use, and feel the convenience of the system.
 
 To test the functionality of the system, we chose manual, scenario-based testing. We perform this test through a series of test cases, in which we document the specific scenarios in which each user interacts with our application.
 
-Home page:
+#### Home page:
 
 | Test case        | Test procedure          | Expected results                   | Actual results |
 | ----------- | ---------------------------- | ---------------------------------- | -------------- |
@@ -182,7 +202,7 @@ Home page:
 |  Admin can delete pet  |  Admin clicks the delete icon on the top left corner of pet photo   | Pet deleted     | As expected     |
 |  User can not add pet  |  User clicks the Add pet button, fill in the pet detail and clicks add                            | Message "No permission! Please login as admin." pops up    | As expected     |
 
-Register page:
+#### Register page:
 
 | Test case        | Test procedure          | Expected results                   | Actual results |
 | ----------- | ---------------------------- | ---------------------------------- | -------------- |
@@ -190,7 +210,7 @@ Register page:
 |  Invalid repeat password check | User inputs a different password in the password(repeat) form then clicks register account   | Warning "Two password inputs do not match." appear   | As expected|
 |  User can create an account |  User inputs all the required information (username and password) then clicks register account  |  User successfully registered   | As expected|
 
-Login page:
+#### Login page:
 
 | Test case        | Test procedure          | Expected results                   | Actual results |
 | ----------- | ---------------------------- | ---------------------------------- | -------------- |
@@ -198,7 +218,7 @@ Login page:
 |  User can access home page without login | User clicks "No login. I just want to take a look!" button  | Redirection to the home page   | As expected|
 |  Invalid input check |  User inputs wrong username and password then clicks login button  |  Warning "User is not found./Password is not correct!" appear   | As expected|
 
-Order page:
+#### Order page:
 
 | Test case        | Test procedure          | Expected results                   | Actual results |
 | ----------- | ---------------------------- | ---------------------------------- | -------------- |
@@ -207,14 +227,14 @@ Order page:
 |  User can goes back to home page |  User clicks "back" or "Fluff-galore"  |  Redirection to home page   | As expected|
 |  Admin can ship the order |  Admin clicks "confirm shipping"  |  Order status become to "product is shipping"   | As expected|
 
-Detail page:
+#### Detail page:
 
 | Test case        | Test procedure          | Expected results                   | Actual results |
 | ----------- | ---------------------------- | ---------------------------------- | -------------- |
 |  User can buy the pet |  User choose the number of pets and clicks "buy now"  | Order Id appear and order placed   | As expected|
 |  Admin can edit the pet |  Admin clicks edit pet and input new information of this pet  | pet information updated  | As expected|
 
-Profile page:
+#### Profile page:
 
 | Test case        | Test procedure          | Expected results                   | Actual results |
 | ----------- | ---------------------------- | ---------------------------------- | -------------- |
