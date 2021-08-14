@@ -83,6 +83,10 @@ _Figure 5: The pet owner persona_
 
 # Final UX
 
+## Theoretical support
+
+We developed frontend by using HTML+CSS+JavaScript and test-driven development model. In order to improve development efficiency, we also used jQuery and Bootstrap as auxiliary tools (For example, we mainly use ajax in jQuery to request back-end data). We created HTML and CSS files that construct the view of one feature, while JS files control their way of display. Moreover, functions between different scripts can call each other just by importing them into the script tag of the current HTML page. We do this job just like building components in most front-end frameworks.
+
 ## System Flow
 
 <div align=center>
