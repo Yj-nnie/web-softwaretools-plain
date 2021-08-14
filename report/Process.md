@@ -379,5 +379,5 @@ When the work content does not need to be modified and all testing tasks have pa
 
 4.Distributed Git - Distributed Workflows - https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
 
-##### :arrow_forward: [Next: Features](../report/Features.md)
+##### :arrow_forward: [Next: Conclusion](../report/Conclusion.md)
 ##### :arrow_backward: [Back to Table of content](../README.md)
