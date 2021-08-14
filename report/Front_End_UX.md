@@ -124,6 +124,8 @@ _Figure 4: The customer persona_
 _Figure 5: The pet owner persona_
 </div>
 
+___
+
 # Final UX
 
 ## System Flow
@@ -655,6 +657,8 @@ $(function () {
 });
 ```
 
+___
+
 # Design choices
 
 ## Design Methodologies
@@ -772,6 +776,8 @@ This is [the library of the background image](../img).
 
 _Figure 25: The background image_
 </div>
+
+___
 
 # Evaluation
 
@@ -940,5 +946,6 @@ _Figure 30: The website with good results_
 * Make the website more robust
 
 ___
+
 ##### :arrow_forward: [Next: Process](../report/Process.md)
 ##### :arrow_backward: [Back to Table of content](../README.md#table-of-contents)
