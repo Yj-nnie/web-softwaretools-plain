@@ -1,3 +1,10 @@
+<div align=center>
+<img src= https://i.imgur.com/9NwQH57.png=centerme > 
+
+</div>	
+
+___
+
 # Abstract
 
 With the advent of the internet, increasing number of people are shopping online, in order to keep up with the changing consuming habit and to potentially reach out to a greater number of potential customers, it is important that we create an online pet shop.
@@ -13,6 +20,8 @@ Another reason for us to look slowly transforming our shop to an online one is a
 	
 We would like to make an online pet shop that is easy to navigate, and visually pleasing to soon-to-be pet owners. The primary aim is to allow customers place their order, or at least to quickly get a good idea of the pets that we offer in our store, this is because the website is designed to automatically change the status of the item/pet online once someone has placed an order. We want to provide our customers not only the convenience to shop at home, but also to help them decide whether or not they want to make a trip down to our shop for an item that is actually available in store.
 
+___
+
 # Objectives
 
 As the owners of the pet shop, we care about the survival and sustainability of our shop. This is why we see putting our shop online as a necessary transformation to take in order to be on par with the shopping habit in recent years. Therefore the primary goal with our online shop is to provide our customers with a safe and efficient way of choosing a pet, with or without a car or pandemic (or much time).
@@ -24,9 +33,14 @@ With reference to these successful cases, our objectives for this website is to 
 
 ![Map](https://i.imgur.com/av4Z8rf.png=centerme)
 
+___
+
 
 # System Design
-## system architecture diagram
+
+Here you will find system diagrams of our website, for a more detailed explanation on feature implementation, please goto [Implementation - Front end UX ](../report/Front&#32End&#32UX.md)
+
+## System architecture diagram
 
 <p align="center">
 <img src="../img/system_architecture_diagram.png"/>
@@ -43,7 +57,8 @@ The front-end HTML makes a request to the Pet Store API by calling the JavaScrip
 
 As the class diagram showed above, this pet store system has three main data models: User account model, Order model, and the Pet model.
 There are two sub models under the user model which are the normal user who can view the pets and place the order, and the admin user, who can add, edit pet and confirm shipping the pet order.
-## sequence diagram
+
+## Sequence diagram
 
 <p align="center">
 <img src="../img/sequence_diagram.png"/>
@@ -55,6 +70,7 @@ After login, the user can select their favorite pet in the home page and click t
 
 When the administrator logs in to the website, he can confirm the delivery of the order on the order page, and the order status will change to "product is shipping". Administrators can also add new pets for sale to the home page
 
+___
 
 # Features
 
@@ -215,3 +231,7 @@ Here is a list of all features that our team members have thought of. You will o
 </tbody>
 </table>
 </div>
+
+___
+##### :arrow_forward: [Next: Features](../report/Features.md)
+##### :arrow_backward: [Back to Table of content](../README.md)
