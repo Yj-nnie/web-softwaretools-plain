@@ -23,6 +23,7 @@ ___
   6. [Profile page](#Features.md#Profile-page)
 
 ___
+
 # ALL Possible Features
 
 This is section presents a list of all features that we have considered to implement:
@@ -35,10 +36,11 @@ This is section presents a list of all features that we have considered to imple
 - Personality and pet match-macking quiz
 
 ___
+
 # Implemented Features: 
 
-# User creation authentication system:
-## Description:
+## User creation authentication system:
+### Description:
 
 This feature helps to differentiate 3 types of user each with corresponding authority given to perform different tasks on the website. [Click here](Features.md#authority-instruction) for details.
 
@@ -71,7 +73,7 @@ This feature helps to differentiate 3 types of user each with corresponding auth
 </div>
 
 
-## Justification:
+### Justification:
 This feature has been strongly requested by one of the owners of our shop and this feature is to keep a record to customers' address information so that in future purchases they will not be required to refill their home address and contact information. 
 
 This owner understands that the store right now only specializes in pets, but he is looking to start buying in pet toys and other pet-related items for future sell. Apart from initial user surveys that prove to have a strong favour towards having accounts, considering the business outlook in the long run - which is potentially expanding to a wider variety of goods, having an account with basic user information filled in could provide existing users an incentive to return to the store for their future pet-related purchases. Therefore by introducing this feature at the very beginning of our online pet store contributes to the eventual sustainability and survival of the store. 
@@ -80,8 +82,8 @@ Additionally, even though there had been doubts about abandoning this feature an
 
 
 
-#  Pet search display (by categorization and by availability status):
-## Description: 
+##  Pet search display (by categorization and by availability status):
+### Description: 
 All users are able to change up what pet they see on the screen by selecting either pet category or availability of pet status. It is there to increase search and viewing efficiency. 
 
 The categories and pet status are placed in two separate drop-down menu bars on top of our webpage.
@@ -96,7 +98,7 @@ Pet status includes: Available, Pending, Sold
 
 - Sold: no longer available, cannot be added to Order list. 
 
-## Justification: 
+### Justification: 
 One of our aims is to offer an efficient online shopping/viewing experience, although we do not have a lot of different types of pets available in our store yet, by setting up a search system to narrow down their search result would provide a good foundation for future expansion. This is why by the final product we have decided to further specify pet categories as much as we can. 
 
 Pet categorization based on availability status also helps to increase efficiency for pet search, this is also to prevent buying/order conflicts on the online store. Given that a online pet shop will not receive the crazy amount of browsing or ordering, and thus pet items are unlikely to come in great numbers, the "Pending status" will ideally prevent a customer from adding the pet to their cart when someone else has already paid for it but the item hasn't been sent out by the store managers.  
@@ -106,8 +108,8 @@ The Pending status is to act as a buffer state for both Available and Sold state
 
 
 
-# Pet management:
-## Description:
+## Pet management:
+### Description:
 This feature is for inventory management and is only accessible by the store admin. 
 
 User can choose to add a new pet to the online inventory, they would have to enter Pet Name, Category, Tags and Availability Status.
@@ -116,7 +118,7 @@ User can also update information of existing pet items. User can also add image 
 
 
 
-## Justification:
+### Justification:
 This feature is an essential feature for shop owners, it is one of the core component of managing the online shop. The shop owners(admin) should be able to manage pet by adding/deleting pets available in the store. Or even manually change the status of the pet if needed to. This is feature contributes more to the managerial side of the website, and is there to give the owners the freedom alter pet information in their inventory. However, this feature is closely linked to the User authentication feature as the website needs to understand the identity of the user, therefore making the user authentication feature indispensable.
 
 Adding a pet photo is an essential feature to have for a pleasant and efficient shopping experience. The viewer should be able to have a good idea of what they are looking at, and without the photos(the visual), it would defy the entire purpose of a visually pleasing and easily navigable online shop.
@@ -127,9 +129,9 @@ It is also important to be given the right to update pet information including u
 
 
 
-# Online Orders:
+## Online Orders:
 
-## Description:
+### Description:
 
 
 This feature encompasses two sub features: Place orders(Customer) online and Order management(Admin)
@@ -144,7 +146,7 @@ To follow up on the order, order management is required, the admin can either cl
 
 
 
-## Justification:
+### Justification:
 
 This is feature is the heart of and the very definition for online shopping. This allows users to place orders at their convenience, in their comfort. This not only helps customers to save time, but also helps to eliminate most of the concerns related to covid and any new strands of covid in future  For both the survival of the store and the health of owners and their customers. This will make it easier for those who want to get a pet but remains cautious to choose and get a pet without having to put themselves under extreme stress and anxiety about going to public place. 
 
@@ -152,6 +154,7 @@ This feature is adding a few extra steps between customer and admin to help mana
 
 
 ___
+
 # Dropped out features:
 Here are a few very cool features that the team had initially thought of, but our team eventually have decided not to implement them.  Please read on for a brief description and a short summary for reasons behind the elimination process.
 
@@ -178,6 +181,7 @@ This was initially a must implement feature for the development team as it would
 
 
 ___
+
 ## Implementation and Testing: 
 
 Here we focus on testing for all functionalities of our web store, for a more detailed implementation, please goto [Implementation - Front end UX ](../report/Front_End_UX.md)
