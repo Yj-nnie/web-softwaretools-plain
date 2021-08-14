@@ -1,3 +1,9 @@
+<div align=center>
+<img src= https://i.imgur.com/9NwQH57.png=centerme > 
+
+</div>	
+
+___
 # ALL Possible Features
 
 This is section presents a list of all features that we have considered to implement:
@@ -151,9 +157,11 @@ This is to be a small app to be integrated onto the home page of our pet store, 
 This was initially a must implement feature for the development team as it would add the fun aspect of pet choosing into a user's online shopping experience. However, later on we realized that it would not be fair to discern someone's best pet choice based on a few questions. Real life case for each individual would be much more complicated than a few questions could encompass. Additionally, speaking from past experience, our past customers had always entered the pet shop with their mind made up, and this trend that we have gathered from the past renders this feature futile. It would make our online shop  fun, but it slightly strayed off from the main objectives defined for the design of this website, which is to provide a visually pleasing and efficient shopping experience. This feature might make customers who play it second guess their decision.
 
 
-
+___
 ## Implementation and Testing: 
-=======
+
+Here we focus on testing for all functionalities of our web store, for a more detailed implementation, please goto [Implementation - Front end UX ](../report/Front&#32End&#32UX.md)
+
 # Testing:
 
 The test work of the online pet store is mainly designed to find the defects in the function and performance of the lonline pet store, and to modify the system in time after the test, to ensure the smooth on-line of the system, and ensure that users have a good use experience in the process of use, and feel the convenience of the system.
@@ -222,3 +230,6 @@ However, there are some drawbacks to this approach. The manual nature of our tes
 
 [PDSA]:<https://www.pdsa.org.uk/taking-care-of-your-pet/choosing-a-pet?_$ja=tsid:67827|cid:1785422340|agid:71441170509|tid:kwd-13580843929|crid:355603342260|nw:g|rnd:9471319939620912770|dvc:c|adp:|mt:e|loc:1006567&gclid=CjwKCAjwr56IBhAvEiwA1fuqGvVJWeNamNuwu2UHw88VuoxIla6-eKB28vqfLrgvZHMkEVNVrKJ-UxoC0Q4QAvD_BwE>
 
+___
+##### :arrow_forward: [Next: Implementation - Front end UX](../report/Front&#32End&#32UX.md)
+##### :arrow_backward: [Back to Table of content](../README.md)
