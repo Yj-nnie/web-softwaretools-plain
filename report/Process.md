@@ -1,4 +1,5 @@
 ![image](https://github.com/Yj-nnie/web-softwaretools-plain/blob/YingDuan/images/full.PNG)
+___
 
 # Contents
 - [Group Working](Process.md#Group-Working)
@@ -23,6 +24,7 @@
   4. [Our Git Working Style](Process.md#4-Our-Git-Working-Style)
 
 - [References](Process.md#References)
+___
 
 # Group Working
 Before the start of any group project, it is important to decide which project management framework and concept to adopt, which determines the future development method of the project, organizational changes and other important aspects.
@@ -125,6 +127,8 @@ Under the Scrum framework, the development of the project is mainly divided into
   <em>Figure 5: A Sprint in a Scrum.</em>
     <br/><br/>
 </div>
+
+___
 
 # Our Sprints Overview
 
@@ -299,6 +303,8 @@ The daily meetings held in Microsoft teams cannot meet the frequent communicatio
 
 - When there are some minor changes in project decision-making, members will post messages via WeChat.
 
+___
+
 # Team Roles
 Members choose what they are good at according to their areas of expertise. In the first group meeting, we successfully assign project tasks according to the requirements. Luming Liu is good at front-end and back-end, so he is mainly responsible for the functional construction of the project. At the same time, Ruiqing Du also assisted in the construction of part of the code. The other members are mainly responsible for writing project report. When some members encounter difficulties in their own work areas, other members will also help to complete this part of the work together. The following figure shows the contributions of various members in the project.
 
@@ -386,6 +392,8 @@ When the work content does not need to be modified and all testing tasks have pa
 3.Comparing Workflows | Atlassian - https://www.atlassian.com/git/tutorials/comparing-workflows
 
 4.Distributed Git - Distributed Workflows - https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
+
+___
 
 ##### :arrow_forward: [Next: Conclusion](../report/Conclusion.md)
 ##### :arrow_backward: [Back to Table of content](../README.md#table-of-contents)
