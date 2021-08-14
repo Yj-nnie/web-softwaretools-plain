@@ -10,9 +10,9 @@ ___
 - [Abstract](Background.md#Abstract)
 - [Objectives](Background.md#Objectives)
 - [System Design](Background.md#System-Design)
-1. [System architecture diagram](Background.md#System-architecture-diagram)
-2. [Class diagram](Background.md#Class-diagram)
-3. [Sequence diagram](Background.md#Sequence-diagram)
+	1. [System architecture diagram](Background.md#System-architecture-diagram)
+	2. [Class diagram](Background.md#Class-diagram)
+	3. [Sequence diagram](Background.md#Sequence-diagram)
 - [Features table](Background.md#Features)
 
 
