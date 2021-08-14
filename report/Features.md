@@ -19,7 +19,7 @@ This is section presents a list of all features that we have considered to imple
 # User creation authentication system:
 ## Description:
 
-This feature helps to differentiate 3 types of user each with corresponding authority given to perform different tasks on the website. [Click here](https://github.com/Yj-nnie/web-softwaretools-plain/blob/Jun/report/Features.md#authority-instruction) for details.
+This feature helps to differentiate 3 types of user each with corresponding authority given to perform different tasks on the website. [Click here](Features.md#authority-instruction) for details.
 
 - This feature consists of the user registration page, and user login page and the user log out button. 
 
@@ -71,7 +71,7 @@ Pet status includes: Available, Pending, Sold
 
 - Available: allows to be added to cart
 
-- Pending: when the pet item has been paid for, but the store admin hasn't confirmed send yet. [Click here](https://github.com/Yj-nnie/web-softwaretools-plain/blob/Jun/report/Features.md#pet-management) to see Pet management feature in detail
+- Pending: when the pet item has been paid for, but the store admin hasn't confirmed send yet. [Click here](Features.md#pet-management) to see Pet management feature in detail
 
 - Sold: no longer available, cannot be added to Order list. 
 
@@ -102,7 +102,7 @@ Adding a pet photo is an essential feature to have for a pleasant and efficient 
 
 It is also important to be given the right to update pet information including updating image as providing the most up-to-date information is essential in trust building between customers and the online store.
 
-[Click here](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dlh8899/ux.md#survey-1-the-proposal-of-the-website) for user input. 
+[Click here](Front_End_UX.md#survey-1-the-proposal-of-the-website) for user input. 
 
 
 
@@ -160,7 +160,7 @@ This was initially a must implement feature for the development team as it would
 ___
 ## Implementation and Testing: 
 
-Here we focus on testing for all functionalities of our web store, for a more detailed implementation, please goto [Implementation - Front end UX ](../report/Front&#32End&#32UX.md)
+Here we focus on testing for all functionalities of our web store, for a more detailed implementation, please goto [Implementation - Front end UX ](../report/Front_End_UX.md)
 
 # Testing:
 
@@ -231,5 +231,5 @@ However, there are some drawbacks to this approach. The manual nature of our tes
 [PDSA]:<https://www.pdsa.org.uk/taking-care-of-your-pet/choosing-a-pet?_$ja=tsid:67827|cid:1785422340|agid:71441170509|tid:kwd-13580843929|crid:355603342260|nw:g|rnd:9471319939620912770|dvc:c|adp:|mt:e|loc:1006567&gclid=CjwKCAjwr56IBhAvEiwA1fuqGvVJWeNamNuwu2UHw88VuoxIla6-eKB28vqfLrgvZHMkEVNVrKJ-UxoC0Q4QAvD_BwE>
 
 ___
-##### :arrow_forward: [Next: Implementation - Front end UX](../report/Front&#32End&#32UX.md)
+##### :arrow_forward: [Next: Implementation - Front end UX](../report/Front_End_UX.md)
 ##### :arrow_backward: [Back to Table of content](../README.md)
