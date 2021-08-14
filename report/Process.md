@@ -6,9 +6,9 @@
   2. [Agile](Process.md#2-Agile)
   3. [The Key Difference between Waterfall and Agile](Process.md#3-The-Key-Difference-between-Waterfall-and-Agile)
   4. [Our Choice of Methodology](Process.md#4-Our-Choice-of-Methodology)
- 
+
 - [The Agile Project Management with Scrum](Process.md#The-Agile-Project-Management-with-Scrum)
- 
+
 - [Our Sprints Overview](Process.md#Our-Sprints-Overview)
   1. [User Story Creation](Process.md#1-User-Story-Creation)
   2. [Details of Our Sprints](Process.md#2-Details-of-Our-Sprints)
@@ -362,6 +362,14 @@ After completing the development of a feature or the writing of a whole paragrap
 ### 4. Track of progress
 After completing a stage of development, we usually used **git rebase** to pull the code from **dev** branch to our own branch. This is a good way of following up the progress of the project.
 
+```shell
+# This is how we use git rebase
+git checkout dev
+git pull origin dev
+git checkout our_own_branch
+git rebase dev
+```
+
 ### 5. Testing
 We set up a **test** branch specifically for testing functions. In the early stage of development, in order to use the **GitHub Pages** function to facilitate unit testing, we created a new repository to store the code of our developed functions, so that we can access our project online (https://luming-liu.github.io/) and every member can see it and test it. The only disadvantage is that we need to manually upload the code each time, which is very inconvenient and wastes time.
 
@@ -380,4 +388,4 @@ When the work content does not need to be modified and all testing tasks have pa
 4.Distributed Git - Distributed Workflows - https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
 
 ##### :arrow_forward: [Next: Conclusion](../report/Conclusion.md)
-##### :arrow_backward: [Back to Table of content](../README.md)
+##### :arrow_backward: [Back to Table of content](../README.md#table-of-contents)

@@ -115,6 +115,9 @@ For administrator, they will go through the following process:
 
 This is [the video](https://www.youtube.com/watch?v=Up0Bc-CfWkY) to show the administrator process.
 
+## Theoretical support
+
+We developed frontend by using HTML+CSS+JavaScript and test-driven development model. In order to improve development efficiency, we also used jQuery and Bootstrap as auxiliary tools (For example, we mainly use ajax in jQuery to request back-end data). We created HTML and CSS files that construct the view of one feature, while JS files control their way of display. Moreover, functions between different scripts can call each other just by importing them into the script tag of the current HTML page. We do this job just like building components in most front-end frameworks.
 
 ## Homepage
 
@@ -894,4 +897,4 @@ _Figure 30: The website with good results_
 * Make the website more robust
 
 ##### :arrow_forward: [Next: Process](../report/Process.md)
-##### :arrow_backward: [Back to Table of content](../README.md)
+##### :arrow_backward: [Back to Table of content](../README.md#table-of-contents)
