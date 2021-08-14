@@ -232,4 +232,4 @@ However, there are some drawbacks to this approach. The manual nature of our tes
 
 ___
 ##### :arrow_forward: [Next: Implementation - Front end UX](../report/Front_End_UX.md)
-##### :arrow_backward: [Back to Table of content](../README.md)
+##### :arrow_backward: [Back to Table of content](../README.md#table-of-contents)

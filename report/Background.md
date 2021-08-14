@@ -235,4 +235,4 @@ Here is a list of all features that our team members have thought of. You will o
 
 ___
 ##### :arrow_forward: [Next: Features](../report/Features.md)
-##### :arrow_backward: [Back to Table of content](../README.md)
+##### :arrow_backward: [Back to Table of content](../README.md#table-of-contents)

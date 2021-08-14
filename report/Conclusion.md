@@ -43,4 +43,4 @@ Transparency has also helped to keep team members motivated throughout this peri
 We have adapted certain characteristics of Git Feature Branch Workflow  and tweaked it to suit the size and scope of our project. Given that our project has relatively small amount of programming, Feature in our case was more to do with different sections of our documentation instead of a function in a software. Each member is set out to create their own branch based on the dev branch and once work is done, we were to create pull requests for other members to review the changes made before agreeing to the merge request. This working style leads to peer assessment  of team members' work and once again, helps to avoid clashes and helps members to cooperate by increasing the overall work efficiency. 
 
 ___
-##### :arrow_backward: [Back to Table of content](../README.md)
+##### :arrow_backward: [Back to Table of content](../README.md#table-of-contents)
