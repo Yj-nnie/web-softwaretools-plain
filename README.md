@@ -16,15 +16,17 @@ ___
 
 
 ##### Checkout our Webpage
-:link:  --------网址 这里 -----
+:link: https://luming-liu.github.io/
+##### Run with Docker
+docker-compose up -d (port:8080)
 
 ###### To sign in as admin: 
-###### :bust_in_silhouette: Username: 
-###### :key: Password:
+###### :bust_in_silhouette: Username: admin
+###### :key: Password: admin
     
 ###### To sign in as a standard user: 
-###### :busts_in_silhouette: Username: 
-###### :key: Password: 
+###### :busts_in_silhouette: Username: hello
+###### :key: Password: 123456
 
 
 ___
@@ -52,7 +54,7 @@ ___
 - **Implementation and testing**: Functional Testing of all implemented features
     
 
-#### [Implementations - Front End /UX](report/Front&#32End&#32UX.md)
+#### [Implementations - Front End /UX](report/Front_End_UX.md)
 
 - **UX Development**: A roadmap of initial prototype to the final Design with Stakeholder's perspectives
 - **Final UX**: Demonstration of final product with detailed code snippets to demonstrate feature implementation
