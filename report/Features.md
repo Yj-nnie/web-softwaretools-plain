@@ -102,7 +102,7 @@ Adding a pet photo is an essential feature to have for a pleasant and efficient 
 
 It is also important to be given the right to update pet information including updating image as providing the most up-to-date information is essential in trust building between customers and the online store.
 
-[Click here](Front_End_UX.md#Survey-1:-The-proposal-of-the-website) for user input. 
+[Click here](Front_End_UX.md#survey-1:-the-proposal-of-the-website) for user input. 
 
 
 
@@ -160,7 +160,7 @@ This was initially a must implement feature for the development team as it would
 ___
 ## Implementation and Testing: 
 
-Here we focus on testing for all functionalities of our web store, for a more detailed implementation, please goto [Implementation - Front end UX ](../report/Front&#32End&#32UX.md)
+Here we focus on testing for all functionalities of our web store, for a more detailed implementation, please goto [Implementation - Front end UX ](../report/Front_End_UX.md)
 
 # Testing:
 
