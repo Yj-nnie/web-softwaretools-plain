@@ -7,10 +7,10 @@ ___
 
 # Contents:
 - [UX Development](#Front_End_UX.md#UX-Development)
-    1.[Design Process](#Front_End_UX.md#Design-Process)
-    2.[Prototyping](#Front_End_UX.md#Prototyping)
-    3.[The prototype implementation](#Front_End_UX.md#The-prototype-implementation)
-    4.[Users and Stakeholders](#Front_End_UX.md#Users-and-Stakeholders)
+    1. [Design Process](#Front_End_UX.md#Design-Process)
+    2. [Prototyping](#Front_End_UX.md#Prototyping)
+    3. [The prototype implementation](#Front_End_UX.md#The-prototype-implementation)
+    4. [Users and Stakeholders](#Front_End_UX.md#Users-and-Stakeholders)
     
    
 - [Final UX](#Front_End_UX.md#Final-UX)
@@ -40,9 +40,9 @@ ___
     3. [UI Design](#Front_End_UX.md#UI-Design)
     
 - [Evaluation](#Front_End_UX.md#Evaluation)
-    1. [Survey 1: The proposal of the website](#Front_End_UX.md#Survey-1:-The-proposal-of-the-website)
-    2. [Survey 2: The feedback of the paper prototype](#Front_End_UX.md#Survey-2:-The-feedback-of-the-paper-prototype)
-    3. [Survey 3: The user experience of the final demo](#Front_End_UX.md#Survey-3:-The-user-experience-of-the-final-demo)
+    1. [Survey 1: The proposal of the website](#Front_End_UX.md#Survey-1-The-proposal-of-the-website)
+    2. [Survey 2: The feedback of the paper prototype](#Front_End_UX.md#Survey-2-The-feedback-of-the-paper-prototype)
+    3. [Survey 3: The user experience of the final demo](#Front_End_UX.md#Survey-3-The-user-experience-of-the-final-demo)
     4. [Future Improvements](#Front_End_UX.md#Future-Improvements)
   
 ___
