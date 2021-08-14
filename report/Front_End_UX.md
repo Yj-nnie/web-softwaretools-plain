@@ -41,11 +41,11 @@ The creation of this wireframe also allowed us to clarify what feature we should
 * The categories of pets (make the site more clear)
 * The function of shoping cart (make user see what they choose at the moment)
 
-Based on the above deign choices, we decided to make the first survey for users. The final design scheme is decided according to the user feedback, including the layout of the site, site features and site improvements. The [first survey details](Front_End_UX.md#Survey 1: The proposal of the website) are in the part of Evaluation.
+Based on the above deign choices, we decided to make the first survey for users. The final design scheme is decided according to the user feedback, including the layout of the site, site features and site improvements. The [first survey details](#survey-1-the-proposal-of-the-website) are in the part of Evaluation.
 
 ## The prototype implemention
 
-After the first survey, we focused on developing it along with above user feedback, which further aided us in implementing a user centric methodology. We did the paper prototype in more detail to show all features of the site, including logging in, placing the order and classifying by pets species, and the front end develop the layout of the whole website. We decided to represent this paper prototype to users and gather their feedback to develop the website. The [second survey details](Front_End_UX.md#Survey 2: The feedback of the paper prototype) are in the part of Evaluation.
+After the first survey, we focused on developing it along with above user feedback, which further aided us in implementing a user centric methodology. We did the paper prototype in more detail to show all features of the site, including logging in, placing the order and classifying by pets species, and the front end develop the layout of the whole website. We decided to represent this paper prototype to users and gather their feedback to develop the website. The [second survey details](#survey-2-the-feedback-of-the-paper-prototype) are in the part of Evaluation.
 
 ### Objectives
 
@@ -717,7 +717,7 @@ _Figure 24: The welcome page_
 
 At the first, we use a cartoon image as the background of the site because many users choose the cartoon style in the first survey. However, considering the topic of the site, we are supposed to add more pets pictures. And in the survey, all users hope that see more animal elements. Therefore, we modify the previous background, which makes the site funny and functional. Meanwhile, we add the cartoon background image into the login page.
 
-This is [the library of the background image]().
+This is [the library of the background image](../img).
 
 <div align=center>
 <img src=../UX/templates/final1.jpeg width="500px" height="280px">
