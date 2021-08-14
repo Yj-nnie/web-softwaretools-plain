@@ -6,21 +6,21 @@
 ___
 # Contents
 
-- [List of ALL possible Features](#Features.md#ALL-Possible-Features)
+- [List of ALL possible Features](Features.md#ALL-Possible-Features)
 - Description and Justification of Implemented Features
-  1. [User creation authentication system](#Features.md#User-creation-authentication-system)
-  2. [Pet Management](#Features.md#Pet-management)
-  3. [Online Orders](#Features.md#Online-Orders)
+  1. [User creation authentication system](Features.md#User-creation-authentication-system)
+  2. [Pet Management](Features.md#Pet-management)
+  3. [Online Orders](Features.md#Online-Orders)
 - Description and Justification of Dropped out Features
-  1. [Homepage Flash cartoon](#Features.md#Homepage-Flash-cartoon)
-  2. [Personality and perfect pet match quiz](#Features.md#Personality-and-perfect-pet-match-quiz)
-- [Implementation and Testing](#Features.md#Implementation-and-Testing)
-  1. [Home page](#Features.md#Home-page)
-  2. [Register page](#Features.md#Register-page)
-  3. [Login page](#Features.md#Login-page)
-  4. [Order page](#Features.md#Order-page)
-  5. [Detail page](#Features.md#Detail-page)
-  6. [Profile page](#Features.md#Profile-page)
+  1. [Homepage Flash cartoon](Features.md#Homepage-Flash-cartoon)
+  2. [Personality and perfect pet match quiz](Features.md#Personality-and-perfect-pet-match-quiz)
+- [Implementation and Testing](Features.md#Implementation-and-Testing)
+  1. [Home page](Features.md#Home-page)
+  2. [Register page](Features.md#Register-page)
+  3. [Login page](Features.md#Login-page)
+  4. [Order page](Features.md#Order-page)
+  5. [Detail page](Features.md#Detail-page)
+  6. [Profile page](Features.md#Profile-page)
 
 ___
 
