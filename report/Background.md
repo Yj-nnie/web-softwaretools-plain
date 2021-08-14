@@ -5,6 +5,17 @@
 
 ___
 
+# Contents
+
+- [Abstract](Background.md#Abstract)
+- [Objectives](Background.md#Objectives)
+- [System Design](Background.md#System-Design)
+1. [System architecture diagram](Background.md#System-architecture-diagram)
+2. [Class diagram](Background.md#Class-diagram)
+3. [Sequence diagram](Background.md#Sequence-diagram)
+- [Features table](Background.md#Features)
+
+
 # Abstract
 
 With the advent of the internet, increasing number of people are shopping online, in order to keep up with the changing consuming habit and to potentially reach out to a greater number of potential customers, it is important that we create an online pet shop.
