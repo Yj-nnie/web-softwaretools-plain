@@ -37,7 +37,7 @@ This is section presents a list of all features that we have considered to imple
 
 ___
 
-# Implemented Features: 
+# :heavy_check_mark: Implemented Features: 
 
 ## User creation authentication system:
 ### Description:
@@ -155,7 +155,7 @@ This feature is adding a few extra steps between customer and admin to help mana
 
 ___
 
-# Dropped out features:
+# :heavy_multiplication_x: Dropped out features:
 Here are a few very cool features that the team had initially thought of, but our team eventually have decided not to implement them.  Please read on for a brief description and a short summary for reasons behind the elimination process.
 
 
