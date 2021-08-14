@@ -17,6 +17,8 @@ ___
 
 ##### Checkout our Webpage
 :link: https://luming-liu.github.io/
+##### Run with Docker
+docker-compose up -d (port:8080)
 
 ###### To sign in as admin: 
 ###### :bust_in_silhouette: Username: admin
