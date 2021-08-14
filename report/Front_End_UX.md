@@ -14,8 +14,8 @@ ___
     
    
 - [Final UX](Front_End_UX.md#Final-UX)
-    1. [System Flow](Front_End_UX.md#)
-    2. [Theoretical support](Front_End_UX.md#)
+    1. [System Flow](Front_End_UX.md#System-Flow)
+    2. [Theoretical support](Front_End_UX.md#Theoretical-support)
     3. [Home Page ](Front_End_UX.md#Homepage)
         - [Pet list display](Front_End_UX.md#Pet-list-display)  
         - [Add pet form](Front_End_UX.md#Add-pet-form)
