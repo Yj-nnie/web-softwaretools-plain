@@ -14,7 +14,7 @@ ___
 _Figure 1: The design process_
 </div>
 
-This is [the list of our design tasks](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dlh8899/UX/task.md).
+This is [the list of our design tasks](../UX/task.md).
 
 ## Prototyping 
 
@@ -39,13 +39,13 @@ The creation of this wireframe also allowed us to clarify what feature we should
 
 * The login page for user (manage their own account)
 * The categories of pets (make the site more clear)
-* The function of shooping cart (make user see what they choose at the moment)
+* The function of shoping cart (make user see what they choose at the moment)
 
-Based on the above deign choices, we decided to make the first survey for users. The final design scheme is decided according to the user feedback, including the layout of the site, site features and site improvements. The [first survey details](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dev/report/Front%20End%20UX.md#survey-1-the-proposal-of-the-website) are in the part of Evaluation.
+Based on the above deign choices, we decided to make the first survey for users. The final design scheme is decided according to the user feedback, including the layout of the site, site features and site improvements. The [first survey details](Front_End_UX.md#Survey 1: The proposal of the website) are in the part of Evaluation.
 
 ## The prototype implemention
 
-After the first survey, we focused on developing it along with above user feedback, which further aided us in implemting a user centric methodology. We did the paper prototype in more detail to show all features of the site, including logging in, placing the order and classifying by pets species, and the front end develop the layout of the whole website. We decided to represent this paper prototype to users and gather their feedback to develop the website. The [second survey details](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dev/report/Front%20End%20UX.md#survey-2-the-feedback-of-the-paper-prototype) are in the part of Evaluation.
+After the first survey, we focused on developing it along with above user feedback, which further aided us in implementing a user centric methodology. We did the paper prototype in more detail to show all features of the site, including logging in, placing the order and classifying by pets species, and the front end develop the layout of the whole website. We decided to represent this paper prototype to users and gather their feedback to develop the website. The [second survey details](Front_End_UX.md#Survey 2: The feedback of the paper prototype) are in the part of Evaluation.
 
 ### Objectives
 
@@ -91,7 +91,7 @@ _Figure 5: The pet owner persona_
 _Figure 6: The final system flow_
 </div>
 
-There are two different account for users: customers and adminstrator. For customers, they will go through the following process:
+There are two different account for users: customers and administrator. For customers, they will go through the following process:
 
 * Go to the login page from the home page (if not, they still can look through the details of pets, but cannot place order)
 * Go to the register page if not have an account
@@ -655,7 +655,7 @@ _Figure 19: The Development Tools_
 
 ## UI Design
 
-This is [the UI design list](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dlh8899/UX/design.md). The critical  chosen design choices are described in detail below.
+This is [the UI design list](../UX/design.md). The critical  chosen design choices are described in detail below.
 
 <div align=center>
 <img src=../UX/templates/designcho.jpeg width="700px" height="330px">
@@ -666,7 +666,7 @@ _Figure 20: The UI visual design elements_
 
 ### Choose the template of the site layout
 
-We use bootstrap to accomplish our front end design. There are a lot of good templates to choose. This [link](https://github.com/Yj-nnie/web-softwaretools-plain/tree/dlh8899/UX/templates) is all possible templates we decide to apply into our website. Finally, we choose the following two templates, and each group member give his/her opinion as a user.
+We use bootstrap to accomplish our front end design. There are a lot of good templates to choose. This [link](../UX/templates) is all possible templates we decide to apply into our website. Finally, we choose the following two templates, and each group member give his/her opinion as a user.
 
 <div align=center>
 <img src=../UX/templates/1.jpeg width="440px" height="300px">
@@ -749,7 +749,7 @@ Firstly, we give participants a summary of our project brief and asked to go ove
 <img src=../UX/survey/3.png width="330px" height="250px">
 </div>
 
-The survey form is [here](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dlh8899/survey/survey1.pdf). And the feedback form click [here](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dlh8899/survey/feedback1.xlsx).
+The survey form is [here](../UX/survey/survey1.pdf). And the feedback form click [here](../UX/survey/feedback1.xlsx).
 
 ### Findings
 
@@ -762,7 +762,6 @@ Throughout the survey, we can test our website whether the features is suitable 
 <div align=center>
 <img src=../UX/survey/fb1.jpeg width="600px" height="200px">
 </div>
-
 **Question 4**: Most people prefer to have their own account, therefore, a login page contributes to improve user experience. 
 
 
@@ -855,13 +854,13 @@ Attractiveness is a pure valence dimension. Perspicuity, Efficiency and Dependab
 _Figure 27: The structure of the UEQ_
 </div>
 
-This is the integrated [user experience questionnaire](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dlh8899/UX/survey/UEQ.pdf).
+This is the integrated [user experience questionnaire](../UX/survey/UEQ.pdf).
 
 ### Results
 
-There are totally 47 participants joing in the survey. We firstly gave them instruction to go through the website and then sent out the questionnaire. They had to finish the questionnaire in 15 minutes. This is [qustionnaire data](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dlh8899/UX/survey/data.xlsx). 
+There are totally 47 participants joing in the survey. We firstly gave them instruction to go through the website and then sent out the questionnaire. They had to finish the questionnaire in 15 minutes. This is [qustionnaire data](../UX/survey/data.xlsx). 
 
-The order of the positive and negative term for an item is randomized in the questionnaire. Per dimension half of the items start with the positive and half with the negative term. This is [transformed data](https://github.com/Yj-nnie/web-softwaretools-plain/blob/dlh8899/UX/survey/dt.xlsx). In this excel, we can find the transformed values per item. We can use these values for example for own statistical calculations. The +3 represent the most positive and the -3 the most negative value. Then, we can calculate scale means per person.
+The order of the positive and negative term for an item is randomized in the questionnaire. Per dimension half of the items start with the positive and half with the negative term. This is [transformed data](../UX/survey/dt.xlsx). In this excel, we can find the transformed values per item. We can use these values for example for own statistical calculations. The +3 represent the most positive and the -3 the most negative value. Then, we can calculate scale means per person.
 
 <div align=center>
 <img src=../UX/survey/change.jpeg width="500px" height="400px">
