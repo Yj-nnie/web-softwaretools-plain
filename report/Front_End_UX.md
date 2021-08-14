@@ -1,4 +1,9 @@
+<div align=center>
+<img src= https://i.imgur.com/9NwQH57.png=centerme > 
 
+</div>	
+
+___
 # UX Development:
 
 ## Design Process
