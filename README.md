@@ -35,10 +35,10 @@ ___
 ## Table of contents
 
 #### [Background](report/Background.md)
-   - **Abstract**: Overview and background of our web store - Fluff-galore
-   - **Objectives**: Overall aims divided into smaller chunks 
-   - **System design**: System architecture diagram, Class diagram, Sequence Diagram
-   - **Features**: table of all features included in the project
+   - **Abstract**: An overview and background of our web store - Fluff-galore.
+   - **Objectives**: Overall aims divided into smaller chunks. 
+   - **System design**: System architecture diagram, Class diagram, Sequence Diagram.
+   - **Features**: A table of all features included in the project.
 
 
 #### [Features](report/Features.md)
@@ -52,27 +52,27 @@ ___
     - Dropped out Features: 
         - Homepage flash cartoons
         - Personality and perfect pet match
-- **Implementation and testing**: Functional Testing of all implemented features
+- **Implementation and testing**: Functional Testing of all implemented features.
     
 
 #### [Implementations - Front End /UX](report/Front_End_UX.md)
 
-- **UX Development**: A roadmap of initial prototype to the final Design with Stakeholder's perspectives
-- **Final UX**: Demonstration of final product with detailed code snippets to demonstrate feature implementation
-- **Design Choices**: Design methodologies, Development tools, UI design
-- **Evaluation**: User surveys, evaluations and findings on the design of web store based on user surveys
+- **UX Development**: A roadmap of initial prototype to the final Design with Stakeholder's perspectives.
+- **Final UX**: Demonstration of final product with detailed code snippets to demonstrate feature implementation.
+- **Design Choices**: Design methodologies, Development tools, UI design.
+- **Evaluation**: User surveys, evaluations and findings on the design of web store based on user surveys.
 
 #### [Process](report/Process.md) 
-- **Group Working**: An overview of available working style, and justification of our own choice
-- **Our Sprints Overview**: A more detailed record of our communication style and sprint content
-- **Team Roles**: a brief record of team members' roles
-- **Continous Integration**: Overview of the team's workflow with github
+- **Group Working**: An overview of available working style, and justification of our own choice.
+- **Our Sprints Overview**: A more detailed record of our communication style and sprint content.
+- **Team Roles**: A brief record of team members' roles.
+- **Continous Integration**: An overview of the team's workflow with github.
 
 #### [Conclusion](report/Conclusion.md)
 
-- **Summary**: a short summary of the project
-- **Analysis**: a condensed overarching reflection of features achieved in the light of overall objectives
-- **Reflection**: a short assessment over team work style and its contribution to the success of the project project
+- **Summary**: A short summary of the project.
+- **Analysis**: A condensed overarching reflection of features achieved in the light of overall objectives.
+- **Reflection**: A short assessment over team work style and its contribution to the success of the project.
 
 
 
